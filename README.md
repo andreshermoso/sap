@@ -1,16 +1,10 @@
-## Overview
+## About me
 
-I am technologist forged in the golden era of Sybase.
+I am a technologist forged in the golden era of Sybase — a senior IT consultant with over 30 years of hands-on experience in enterprise database administration and technical project management.
 
-A senior IT Consultant with 30+ years of hands-on experience in enterprise database administration and technical project management.
+My current interests include exploring the latest capabilities of SAP Adaptive Server Enterprise (ASE) 16.1, along with SAP IQ, SAP Replication Server, SAP SQL Anywhere, and SAP PowerDesigner.
 
-I'm interested in exploring the latest SAP Adaptive Server Enterprise (ASE) 16.1 features as well as SAP IQ, SAP Replication Server, SAP SQL Anywhere and SAP PowerDesigner.
-
-I've created this public repository to consider SAP ASE CORE TROUBLESHOOTING SKILLS and ongoing practical day to day DBA tasks, performance and tuning, backup/restore, and monitoring among many others.
-
-I've an extensive collection of enlightening AI prompts that helped me to solve complex AWS DevOps tasks. I'm sure my prompt engineering skills would soon allow me to better (GIT) version control and structure this repo.    
-
-I am currently charging forward into the modern AI Agents + AI DevOps frontier, eager to tackle and solve the still common ASE DB day to day database administration challenges, like :
+This public repository was created to focus on core SAP ASE troubleshooting skills and essential daily DBA tasks, including
 
 1. [Slow transactions](#slowtransactions)
  - High transaction loading times and overall slowness
@@ -40,9 +34,13 @@ I am currently charging forward into the modern AI Agents + AI DevOps frontier, 
 10. [High availability and database replication](#highavailabilityanddatabasereplication)
 - Configuring and maintaining high availability solutions and replication setups
 
-This repo is a work in progress.
+... And many other practical, real-world activities
 
-As I keep gaining latest ASE, IQ, RS, SQLA tech experience, please bear with me so to keep version controlling here useful AI scripts :-)
+I’ve also compiled an extensive set of AI-generated prompts that have helped me solve complex AWS DevOps challenges. These experiences have sharpened my prompt engineering skills, which I believe will soon enhance how I structure and version-control this repository using Git more effectively.
+
+Currently, I’m diving into the emerging intersection of AI Agents and DevOps, while continuing to address the ongoing day-to-day challenges of ASE database administration.
+
+This repository is a work in progress. As I continue exploring the latest from ASE, IQ, RS, SQLA, and PowerDesigner, I ask for your patience while I refine and version-control the most useful AI-assisted scripts in the most efficient way possible.
 
 [![LICENCE](https://cdn.experts-exchange.com/images/experts-exchange/topicLogos/sybase-database.svg)](LICENCE)
 
