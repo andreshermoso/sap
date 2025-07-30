@@ -40,4 +40,6 @@ I am currently charging forward into the modern AI Agents + AI DevOps frontier, 
 10. [High availability and database replication](#highavailabilityanddatabasereplication)
 - Configuring and maintaining high availability solutions and replication setups
 
-This repo is a work in progress. Please bear with me while I keep structuring and version controlling scripts as I gain SAP ASE 16.1 experience.
+This repo is a work in progress.
+
+Please bear with me while I keep structuring and version controlling scripts as I gain SAP ASE + IQ + RS + SQLA 16.1 experience.
