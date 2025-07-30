@@ -1,7 +1,5 @@
 ## Overview
 
-[![](https://cdn.experts-exchange.com/images/experts-exchange/topicLogos/sybase-database.svg)]
-
 I am technologist forged in the golden era of Sybase.
 
 As a Senior IT Consultant with 30+ years of hands-on experience in enterprise database administration and technical project management.
@@ -44,4 +42,7 @@ I am currently charging forward into the modern AI Agents + AI DevOps frontier, 
 
 This repo is a work in progress.
 
-Please bear with me while I keep structuring and version controlling scripts as I gain SAP ASE + IQ + RS + SQLA 16.1 experience.
+As I keep gaining latest ASE, IQ, RS, SQLA tech experience, please bear with me so to keep structuring and version controlling here useful AI scripts :-)
+
+[![](https://cdn.experts-exchange.com/images/experts-exchange/topicLogos/sybase-database.svg)]
+
