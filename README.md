@@ -1,6 +1,8 @@
 ## Overview
 
-[(https://cdn.experts-exchange.com/images/experts-exchange/topicLogos/sybase-database.svg)]
+[![](https://cdn.experts-exchange.com/images/experts-exchange/topicLogos/sybase-database.svg)]
+
+[![License](https://cdn.experts-exchange.com/images/experts-exchange/topicLogos/sybase-database.svg)](LICENSE)
 
 I am technologist forged in the golden era of Sybase.
 
