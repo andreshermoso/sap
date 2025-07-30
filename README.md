@@ -2,12 +2,15 @@
 
 I am technologist forged in the golden era of Sybase.
 
-As a Senior IT Consultant with 30+ years of hands-on experience in enterprise database administration and technical project management, I'm interested in exploring the latest SAP Adaptive Server Enterprise (ASE) 16.1 
+As a Senior IT Consultant with 30+ years of hands-on experience in enterprise database administration and technical project management.
+
+I'm interested in exploring the latest SAP Adaptive Server Enterprise (ASE) 16.1 features as well as SAP IQ, SAP Replication Server, SAP SQL Anywhere and SAP PowerDesigner.
 
 I've created this public repository to consider SAP ASE CORE TROUBLESHOOTING SKILLS and ongoing practical day to day DBA tasks, performance and tuning, backup/restore, and monitoring among many others.
-I've an extensive collection of enlightening AI prompts that helped me to solve complex AWS DevOps tasks. I'm sure my prompt engineering skills would soon allow me to GIT version control and structure this repository    
 
-I am currently charging forward into the modern AI Agents + AI DevOps frontier, eager to tackle and solve the still ASE DB day to day database administration challenges, like :
+I've an extensive collection of enlightening AI prompts that helped me to solve complex AWS DevOps tasks. I'm sure my prompt engineering skills would soon allow me to better (GIT) version control and structure this repo.    
+
+I am currently charging forward into the modern AI Agents + AI DevOps frontier, eager to tackle and solve the still common ASE DB day to day database administration challenges, like :
 
 1. [Slow transactions](#slowtransactions)
  - High transaction loading times and overall slowness
