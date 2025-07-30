@@ -42,7 +42,7 @@ I am currently charging forward into the modern AI Agents + AI DevOps frontier, 
 
 This repo is a work in progress.
 
-As I keep gaining latest ASE, IQ, RS, SQLA tech experience, please bear with me so to keep structuring and version controlling here useful AI scripts :-)
+As I keep gaining latest ASE, IQ, RS, SQLA tech experience, please bear with me so to keep version controlling here useful AI scripts :-)
 
-[![](https://cdn.experts-exchange.com/images/experts-exchange/topicLogos/sybase-database.svg)]
+[![LICENCE](https://cdn.experts-exchange.com/images/experts-exchange/topicLogos/sybase-database.svg)](LICENCE)
 
