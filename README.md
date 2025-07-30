@@ -1,6 +1,6 @@
 ## Overview
 
-https://cdn.experts-exchange.com/images/experts-exchange/topicLogos/sybase-database.svg
+(https://cdn.experts-exchange.com/images/experts-exchange/topicLogos/sybase-database.svg)
 
 I am technologist forged in the golden era of Sybase.
 
