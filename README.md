@@ -1,5 +1,7 @@
 ## Overview
 
+[![License](https://cdn.experts-exchange.com/images/experts-exchange/topicLogos/sybase-database.svg)](LICENSE)
+
 I am technologist forged in the golden era of Sybase.
 
 As a Senior IT Consultant with 30+ years of hands-on experience in enterprise database administration and technical project management.
