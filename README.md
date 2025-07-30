@@ -9,7 +9,7 @@ I've an extensive collection of enlightening AI prompts that helped me to solve 
 
 I am currently charging forward into the modern AI Agents + AI DevOps frontier, eager to tackle and solve the still ASE DB day to day database administration challenges, like :
 
-1. Slow transactions
+1. [Slow transactions](#slowtransactions)
  - High transaction loading times and overall slowness
  - Investigating and resolving issues related to work processes (e.g., processes stuck in a stopped or cancelled state)
 2. Resource contention
@@ -37,7 +37,7 @@ I am currently charging forward into the modern AI Agents + AI DevOps frontier, 
 10. High availability and database replication
 - Configuring and maintaining high availability solutions and replication setups
 
-
+This repo is a work in progress. Please bear with me while I keep structuring and version control scripts gaining SAP ASE 16.1 experience.
 Database Security: 
 As a Senior IT Consultant with 30+ years of hands-on experience in enterprise database administration, software engineering, and technical project management. Specialized in Sybase (SAP ASE) architecture, performance tuning, high availability, and replication. Proven ability to lead cross-functional DevOps and Big Data initiatives. Currently focused on revitalizing Sybase technical expertise for upcoming support roles in financial institutions using COBIS TOPAZ on SAP ASE.
 
