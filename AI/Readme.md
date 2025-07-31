@@ -21,12 +21,10 @@ __$${*}$$ Key areas of automation with AI agents in SQL Anywhere__
 __$${*}$$ Implementation Considerations__
 
 - Integration
-  - AI agents need to be integrated with SQL Anywhere, typically through APIs or connectors that allow them to execute SQL commands and retrieve data.
+  - AI agents need to be integrated with SQL Anywhere, typically through [APIs](ms-dynamics-365) or connectors that allow them to execute SQL commands and retrieve data.
 - Natural Language Processing (NLP)
   - For natural language interaction, robust NLP capabilities are crucial for understanding user intent and translating it into actionable SQL.
 - Machine Learning (ML)
   - ML algorithms enable agents to learn from database interactions, adapt to changing patterns, and improve their performance over time.
 - Security
   - Ensure secure access and authentication for AI agents interacting with the database to prevent unauthorized operations.
-- Human-in-the-Loop
-  - For critical or complex tasks, consider incorporating a human-in-the-loop for review and confirmation before the AI agent executes actions.
