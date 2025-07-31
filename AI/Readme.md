@@ -19,9 +19,11 @@ Key areas of automation with AI agents in SQL Anywhere:
   - AI agents can learn normal database behavior and flag deviations for investigation.
 
 
-_Implementation Considerations:
+- Implementation Considerations:
+  - Identify unusual database activity that might indicate security threats or performance issues
+  - AI agents can learn normal database behavior and flag deviations for investigation.
 
-    Integration:
+Integration:
     AI agents need to be integrated with SQL Anywhere, typically through APIs or connectors that allow them to execute SQL commands and retrieve data.
     Natural Language Processing (NLP):
     For natural language interaction, robust NLP capabilities are crucial for understanding user intent and translating it into actionable SQL.
