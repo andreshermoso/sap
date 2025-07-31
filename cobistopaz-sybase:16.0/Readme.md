@@ -15,5 +15,6 @@ Central American customers like
 2. Banrural (Guatemala)
 3. Banco General (Panama)
 4. Banistmo (Panama)
+
 In all these deployments, the core banking platform is COBIS Topaz – which, as above, runs on SAP ASE.
 
