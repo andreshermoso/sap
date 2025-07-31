@@ -11,9 +11,9 @@ CobisTopaz still maintains SAP ASE in its stack.
 The Cobiscorp/Topaz acquisition by Topaz (2022) was covered by industry press. Cobis Topaz is widely deployed across Latin America, including Central America. Press coverage notes that Cobiscorp had 70+ financial clients across the Americas, explicitly including banks in Guatemala and Panama.
 
 Central American customers like 
-1. [Banco Cuscatlan (El Salvador)]
-2. [Banrural (Guatemala)]
-3. [Banco General (Panama)]
-4. [Banistmo (Panama)]
+1. Banco Cuscatlan (El Salvador)
+2. Banrural (Guatemala)
+3. Banco General (Panama)
+4. Banistmo (Panama)
 In all these deployments, the core banking platform is COBIS Topaz – which, as above, runs on SAP ASE.
 
