@@ -1,3 +1,6 @@
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![Version](https://img.shields.io/badge/version-16.0-dev-orange.svg)]
+
 ## COBIS TOPAZ Core and SAP ASE
 
 Cobis Topaz (formerly CobisCorp) is a banking core platform originally built on SAP ASE (Sybase Adaptive Server Enterprise). CobisTopaz is listed under companies using Sybase. Cobis Topaz latest marketing and library content focus on functional modules and cloud architecture.
