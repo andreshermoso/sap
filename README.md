@@ -14,7 +14,7 @@ This public repository was created to focus on core SAP ASE troubleshooting skil
 3. [Monitoring and analysis](#monitoringandanalysis)
 - Overall system performance (response time, throughput, system waits)
 - AI Agents SQL command execution plans analysis
-4. [Tuning database darameters](#tuningdatabaseparameters)
+4. [Tuning database parameters](#tuningdatabaseparameters)
 - Maintaining and adjusting database parameters to optimize performance
 5. [Space management](#spacemanagement)
 - To ensure sufficient space for data and logs 
