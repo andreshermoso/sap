@@ -5,7 +5,14 @@
 Key areas of automation with AI agents in SQL Anywhere:
 
 - Query Automation
- - AI agents can interpret natural language requests and translate them into SQL queries for data retrieval, reporting, and analysis. They can automate the generation of routine reports, eliminating the need for manual query writing
+  - AI agents can interpret natural language requests and translate them into SQL queries for data retrieval, reporting, and analysis.
+  - They can automate the generation of routine reports, eliminating the need for manual query writing
+  - AI agents can handle user requests for adding, modifying, or deleting records based on natural language input, simplifying data manipulation for non-technical users
+
+
+
+ - 
+ - 
 - Performance Monitoring and Tuning
   - Automate routine maintenance tasks like backups, data cleanup, and integrity checks.
         AI agents can handle user requests for adding, modifying, or deleting records based on natural language input, simplifying data manipulation for non-technical users
