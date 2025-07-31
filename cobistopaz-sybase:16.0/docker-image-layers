@@ -1,97 +1,37 @@
-1 ADD file ... in /                                                                                                        72.57 MB
-2 LABEL org.label-schema.schema-version=1.0 org.label-schema.name=CentOS Base                                                  0 B
-3 CMD ["/bin/bash"]                                                                                                            0 B
-4 LABEL MAINTAINER=Florian JUDITH <florian.judith.b@gmail.com>                                                                 0 B
-5 ENV SYBASE=/opt/sybase                                                                                                       0 B
-6 ENV PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/opt/sybase/ASE-16_0/bin/:/opt/sybase/OCS-16_0/bin     0 B
-7 ENV TINI_VERSION=v0.19.0                                                                                                     0 B
-8
-ADD https://github.com/krallin/tini/releases/download/v0.19.0/tini /tini # buildkit
-9.24 KB
-9
-ADD https://github.com/krallin/tini/releases/download/v0.19.0/tini.asc /tini.asc # buildkit
-744 B
-10
-RUN /bin/sh -c gpg --batch
-18.48 KB
-11
-RUN /bin/sh -c sed -i
-2.63 KB
-12
-RUN /bin/sh -c sed -i
-2.63 KB
-13
-RUN /bin/sh -c sed -i
-2.63 KB
-14
-RUN /bin/sh -c yum install
-28.68 MB
-15
-COPY sap-ase/files/sysctl.conf /etc/ # buildkit
-167 B
-16
-RUN /bin/sh -c set -x
-93 B
-17
-ENV LD_LIBRARY_PATH=/opt/mqm/lib64
-0 B
-18
-RUN /bin/sh -c mkdir -p
-131 B
-19
-COPY sap-ase/packages/MQClient.tar /tmp/cobis # buildkit
-364.81 MB
-20
-RUN /bin/sh -c tar -xvf
-366.15 MB
-21
-COPY sap-ase/files/sybase-response.txt /tmp/ # buildkit
-1.04 KB
-22
-COPY sap-ase/packages/ASE_Suite.linuxamd64.tgz ./ # buildkit
-2.12 GB
-23
-RUN /bin/sh -c set -x
-814.59 MB
-24
-RUN /bin/sh -c groupadd sybase
-814.1 MB
-25
-USER sybase
-0 B
-26
-COPY --chown=sybase:sybase sap-ase/files/sybase-ase.rs /tmp/ #
-691 B
-27
-RUN /bin/sh -c source ${SYBASE}/SYBASE.sh
-27.15 MB
-28
-COPY --chown=sybase:sybase sap-ase/files/sybase-backup.rs /tmp/ #
-474 B
-29
-RUN /bin/sh -c source ${SYBASE}/SYBASE.sh
-2.67 KB
-30
-COPY --chown=sybase:sybase sap-ase/files/sybase-xp.rs /tmp/ #
-470 B
-31
-COPY --chown=sybase:sybase sap-ase/files/interfaces /tmp/ #
-214 B
-32
-RUN /bin/sh -c mv ${SYBASE}/interfaces
-346 B
-33
-EXPOSE map[11000/tcp:{} 5000/tcp:{} 5001/tcp:{} 5002/tcp:{}]
-0 B
-34
-COPY --chown=sybase:sybase sap-ase/scripts/start.sh /start.sh #
-1.2 KB
-35
-RUN /bin/sh -c chmod +x
-1.23 KB
-36
-ENTRYPOINT ["/tini" "--"]
-0 B
-37
-CMD ["/start.sh"]
-0 B
+1  ADD file ... in /                                                                                                        72.57 MB
+2  LABEL org.label-schema.schema-version=1.0 org.label-schema.name=CentOS Base                                                  0 B
+3  CMD ["/bin/bash"]                                                                                                            0 B
+4  LABEL MAINTAINER=Florian JUDITH <florian.judith.b@gmail.com>                                                                 0 B
+5  ENV SYBASE=/opt/sybase                                                                                                       0 B
+6  ENV PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/opt/sybase/ASE-16_0/bin/:/opt/sybase/OCS-16_0/bin     0 B
+7  ENV TINI_VERSION=v0.19.0                                                                                                     0 B
+8  ADD https://github.com/krallin/tini/releases/download/v0.19.0/tini /tini # buildkit                                       9.24 KB
+9  ADD https://github.com/krallin/tini/releases/download/v0.19.0/tini.asc /tini.asc # buildkit                                744 B
+10 RUN /bin/sh -c gpg --batch                                                                                              18.48 KB
+11 RUN /bin/sh -c sed -i                                                                                                    2.63 KB
+12 RUN /bin/sh -c sed -i                                                                                                    2.63 KB
+13 RUN /bin/sh -c sed -i                                                                                                    2.63 KB
+14 RUN /bin/sh -c yum install                                                                                              28.68 MB
+15 COPY sap-ase/files/sysctl.conf /etc/ # buildkit                                                                           167 B
+16 RUN /bin/sh -c set -x                                                                                                      93 B
+17 ENV LD_LIBRARY_PATH=/opt/mqm/lib64                                                                                          0 B
+18 RUN /bin/sh -c mkdir -p                                                                                                   131 B
+19 COPY sap-ase/packages/MQClient.tar /tmp/cobis # buildkit                                                               364.81 MB
+20 RUN /bin/sh -c tar -xvf                                                                                                366.15 MB
+21 COPY sap-ase/files/sybase-response.txt /tmp/ # buildkit                                                                  1.04 KB
+22 COPY sap-ase/packages/ASE_Suite.linuxamd64.tgz ./ # buildkit                                                             2.12 GB
+23 RUN /bin/sh -c set -x                                                                                                  814.59 MB
+24 RUN /bin/sh -c groupadd sybase                                                                                          814.1 MB
+25 USER sybase                                                                                                                 0 B
+26 COPY --chown=sybase:sybase sap-ase/files/sybase-ase.rs /tmp/ #                                                            691 B
+27 RUN /bin/sh -c source ${SYBASE}/SYBASE.sh                                                                               27.15 MB
+28 COPY --chown=sybase:sybase sap-ase/files/sybase-backup.rs /tmp/ #                                                         474 B
+29 RUN /bin/sh -c source ${SYBASE}/SYBASE.sh                                                                                2.67 KB
+30 COPY --chown=sybase:sybase sap-ase/files/sybase-xp.rs /tmp/ #                                                             470 B
+31 COPY --chown=sybase:sybase sap-ase/files/interfaces /tmp/ #                                                               214 B
+32 RUN /bin/sh -c mv ${SYBASE}/interfaces                                                                                    346 B
+33 EXPOSE map[11000/tcp:{} 5000/tcp:{} 5001/tcp:{} 5002/tcp:{}]                                                                0 B
+34 COPY --chown=sybase:sybase sap-ase/scripts/start.sh /start.sh #                                                           1.2 KB
+35 RUN /bin/sh -c chmod +x                                                                                                  1.23 KB
+36 ENTRYPOINT ["/tini" "--"]                                                                                                   0 B
+37 CMD ["/start.sh"]                                                                                                           0 B
