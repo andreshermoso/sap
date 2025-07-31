@@ -2,7 +2,7 @@
 
 [AI agents](sap-sql-anywhere-16-aia) can be leveraged to automate tasks within a SQL Anywhere environment, enhancing efficiency and reducing manual intervention. This involves using AI capabilities to interact with the database, perform operations, and even optimize performance.
 
-__$${*}$$ Key areas of automation with AI agents in SQL Anywhere:__
+__$${*}$$ Key areas of automation with AI agents in SQL Anywhere__
 
 - Query Automation
   - AI agents can interpret natural language requests and translate them into SQL queries for data retrieval, reporting, and analysis.
@@ -18,8 +18,7 @@ __$${*}$$ Key areas of automation with AI agents in SQL Anywhere:__
   - Identify unusual database activity that might indicate security threats or performance issues
   - AI agents can learn normal database behavior and flag deviations for investigation.
 
-
-- Implementation Considerations:
+__$${*}$$Implementation Considerations__
   - Identify unusual database activity that might indicate security threats or performance issues
   - AI agents can learn normal database behavior and flag deviations for investigation.
 
