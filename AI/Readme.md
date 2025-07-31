@@ -18,7 +18,7 @@ __$${*}$$ Key areas of automation with AI agents in SQL Anywhere__
   - Identify unusual database activity that might indicate security threats or performance issues
   - AI agents can learn normal database behavior and flag deviations for investigation.
 
-__$${*}$$Implementation Considerations__
+__$${*}$$ Implementation Considerations__
   - Identify unusual database activity that might indicate security threats or performance issues
   - AI agents can learn normal database behavior and flag deviations for investigation.
 
