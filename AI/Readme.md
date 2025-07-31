@@ -19,7 +19,7 @@ Key areas of automation with AI agents in SQL Anywhere:
   - AI agents can learn normal database behavior and flag deviations for investigation.
 
 
-Implementation Considerations:
+_Implementation Considerations:
 
     Integration:
     AI agents need to be integrated with SQL Anywhere, typically through APIs or connectors that allow them to execute SQL commands and retrieve data.
