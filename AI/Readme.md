@@ -1,6 +1,6 @@
 ##
 ## AI Agents : SAP ASE, IQ and SQL Anywhere
-[AI agents](sap-sql-anywhere-16-aia) can be leveraged to automate tasks within SAP ASE, IQ and SQL Anywhere environments, enhancing efficiency and reducing manual intervention. This involves using AI capabilities to interact with the database, perform operations, and even optimize performance.
+[AI agents](AIA) can be leveraged to automate tasks within SAP ASE, IQ and SQL Anywhere environments, enhancing efficiency and reducing manual intervention. This involves using AI capabilities to interact with the database, perform operations, and even optimize performance.
 
 __Key areas of automation with AI agents in ASE, IQ and SQL Anywhere__
  
