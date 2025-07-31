@@ -1,5 +1,4 @@
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Version](https://img.shields.io/badge/version-16.0-dev-orange.svg)]
+## :bookmark_tabs: devops-with-chatgpt/README.md
 
 ## COBIS TOPAZ Core and SAP ASE
 
