@@ -10,7 +10,7 @@ Please check my [current projects](#Projects) __$${(i)}$$__ status below
 
 <br>
 <br>
-
+<br>
 ### repo v.1.0
 This public repository first version was meant to explore core SAP ASE troubleshooting skills and essential daily DBA tasks, including
 
