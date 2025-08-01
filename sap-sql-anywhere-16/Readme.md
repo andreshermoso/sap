@@ -3,9 +3,8 @@
     /root/sqlanywhere16/bin64/jre170/bin/:/root/sqlanywhere16/bin64:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
 
 ##
-# mysql>
-    create database sftpgo;
-Query OK, 1 row affected (0.00 sec)
+##### SQLANY16 points to the installation directory of SQL Anywhere 16
+    /root/sqlanywhere16
 
     show databases;
 
