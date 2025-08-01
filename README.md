@@ -4,7 +4,7 @@ I am a technologist forged in the golden era of Sybase — a senior IT consultan
 
 My current interests include exploring the latest capabilities of SAP Adaptive Server Enterprise (ASE) 16.1, along with SAP IQ, SAP Replication Server, SAP SQL Anywhere, and SAP PowerDesigner.
 
-Please check my [current projects](#Projects) __$${(p)}$$__ status below
+Please check my [current projects](#Projects) status below
 
 <img width="38" height="270" align="left" alt="sybase" src="https://github.com/user-attachments/assets/e5c06621-964e-47b5-b3f2-2261803ae1a9" />
 
@@ -50,7 +50,7 @@ I’ve also compiled an extensive set of AI-generated prompts that have helped m
 Currently, I’m diving into the emerging intersection of AI Agents and DevOps, while continuing to address the ongoing day-to-day challenges of ASE database administration.
 
 This repository is a work in progress. As I continue exploring the latest technical and functional updates of ASE, IQ, RS, SQLA and PowerDesigner, I ask for your patience while I refine and version-control useful AI-assisted scripts.
-### Projects __$${(p)}$$__
+### Projects
 
 |REPO|Project|Task|Status|
 |:-- |:------|:---|:-----|
