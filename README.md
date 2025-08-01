@@ -9,6 +9,8 @@ Please check my [current projects](#Projects) __$${(i)}$$__ status below
 <img width="38" height="270" align="left" alt="sybase" src="https://github.com/user-attachments/assets/e5c06621-964e-47b5-b3f2-2261803ae1a9" />
 
 ## 
+#
+\
 
 
 
