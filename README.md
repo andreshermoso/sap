@@ -10,7 +10,7 @@ Please check my [current projects](#Projects) __$${(i)}$$__ status below
 
 
 
-## repo v.1.0
+### repo v.1.0
 This public repository first version was meant to explore core SAP ASE troubleshooting skills and essential daily DBA tasks, including
 
 1. [Slow transactions](#slowtransactions)
