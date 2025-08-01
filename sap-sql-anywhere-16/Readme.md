@@ -22,4 +22,4 @@
 
 ##
 ##### root#> dbsrv16
-##### ...... $${server options}$$ -n name the database server -ze (to display server environment variables) {database [options]}*
+##### -----> $${server options}$$ -n name the database server -ze (to display server environment variables) {database [options]}*
