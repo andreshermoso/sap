@@ -21,4 +21,5 @@
 ##### ODBCINI points to the location of the odbc.ini file, which contains Data Source Name (DSN) entries
 
 ##
-##### root#> dbsrv16 -n name the database server -ze (to display server environment variables) {database [options]}*
+##### root#>
+    dbsrv16 -n name the database server -ze (to display server environment variables) {database [options]}*
