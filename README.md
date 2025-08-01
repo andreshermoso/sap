@@ -47,7 +47,7 @@ Currently, I’m diving into the emerging intersection of AI Agents and DevOps, 
 This repository is a work in progress. As I continue exploring the latest technical and functional updates of ASE, IQ, RS, SQLA and PowerDesigner, I ask for your patience while I refine and version-control useful AI-assisted scripts.
 
 
-[![LICENCE](https://cdn.experts-exchange.com/images/experts-exchange/topicLogos/sybase-database.svg)](LICENCE)
+
 
 # Projects __$${(i)}$$__ 
 
