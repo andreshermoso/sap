@@ -4,7 +4,7 @@ I am a technologist forged in the golden era of Sybase — a senior IT consultan
 
 My current interests include exploring the latest capabilities of SAP Adaptive Server Enterprise (ASE) 16.1, along with SAP IQ, SAP Replication Server, SAP SQL Anywhere, and SAP PowerDesigner.
 
-Please check my [current projects](#status) status below
+Please check my [current projects](#Projects) __$${(i)}$$__ status below
 
 ## repo
 This public repository first version was meant to explore core SAP ASE troubleshooting skills and essential daily DBA tasks, including
@@ -48,4 +48,9 @@ This repository is a work in progress. As I continue exploring the latest techni
 
 [![LICENCE](https://cdn.experts-exchange.com/images/experts-exchange/topicLogos/sybase-database.svg)](LICENCE)
 
-# status
+# Projects __$${(i)}$$__ 
+
+|REPO|Project|Task|
+|:-- |:------|:---|
+|sap|AIA MS Dynamics365 to SQLAnywhere|[Setup SQLAnywhere16]|
+
