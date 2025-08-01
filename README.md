@@ -7,7 +7,7 @@ My current interests include exploring the latest capabilities of SAP Adaptive S
 Please check my [current projects](#status) status below
 
 ## repo
-This public repository was created to focus on core SAP ASE troubleshooting skills and essential daily DBA tasks, including
+This public repository first version was meant to explore core SAP ASE troubleshooting skills and essential daily DBA tasks, including
 
 1. [Slow transactions](#slowtransactions)
  - High transaction loading times and overall slowness
@@ -48,3 +48,4 @@ This repository is a work in progress. As I continue exploring the latest techni
 
 [![LICENCE](https://cdn.experts-exchange.com/images/experts-exchange/topicLogos/sybase-database.svg)](LICENCE)
 
+#status
