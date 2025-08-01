@@ -1,5 +1,5 @@
 ##
-#### PATH to locate SQL Anywhere executables and libraries
+##### PATH to locate SQL Anywhere executables and libraries
     /root/sqlanywhere16/bin64/jre170/bin/:/root/sqlanywhere16/bin64:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
 
 ##
