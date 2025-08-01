@@ -1,4 +1,8 @@
 ##
+##### root#>
+    source ./sa_config.sh
+
+##
 ##### PATH to locate SQL Anywhere executables and libraries
     /root/sqlanywhere16/bin64/jre170/bin/:/root/sqlanywhere16/bin64:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
 
@@ -9,6 +13,13 @@
 ##
 ##### LD_LIBRARY_PATH specifies the location of shared libraries (i.e ODBC driver libraries)
     /root/sqlanywhere16/lib64:/root/sqlanywhere16/bin64/jre170/lib/amd64/client:/root/sqlanywhere16/bin64/jre170/lib/amd64/server:/root/sqlanywhere16/bin64/jre170/lib/amd64:/root/sqlanywhere16/bin64/jre170/lib/amd64/native_threads:
+
+##
+##### DYLD_LIBRARY_PATH (Max OS X)
+
+##
+##### ODBCINI points to the location of the odbc.ini file, which contains Data Source Name (DSN) entries
+
 
 | Database           |
 |:-------------------|
