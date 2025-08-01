@@ -54,5 +54,5 @@ This repository is a work in progress. As I continue exploring the latest techni
 
 |REPO|Project|Task|Status|
 |:-- |:------|:---|:-----|
-|sap|[AIA MS Dynamics365 to SQLAnywhere](https://github.com/users/andreshermoso/projects/2/views/1)|[Setup SQLAnywhere16](https://github.com/andreshermoso/sap/issues/1)|BACKLOG|
+|sap|[AIA MS Dynamics365 to SQLAnywhere](https://github.com/andreshermoso/sap/projects?query=is%3Aopen)|[Setup SQLAnywhere16](https://github.com/andreshermoso/sap/issues/1)|BACKLOG|
 
