@@ -75,18 +75,18 @@
 ###### Minimum cache size: 15824K, maximum cache size: 14696416K
 ###### Using a maximum page size of 4096 bytes
 ###### Multiprogramming level: minimum:4, current:20, maximum:80
-Automatic tuning of multiprogramming level is enabled
-Starting database "demo" (/root/sqlanywhere16/demo.db) at Fri Aug 01 2025 22:13
-Direct IO disabled for file '/root/sqlanywhere16/demo.db' because the file system on which it resides does not support it
-Transaction log: demo.log
-Starting checkpoint of "demo" (demo.db) at Fri Aug 01 2025 22:13
-Finished checkpoint of "demo" (demo.db) at Fri Aug 01 2025 22:13
-Database "demo" (demo.db) started at Fri Aug 01 2025 22:13
-Database server started at Fri Aug 01 2025 22:13
-Trying to start SharedMemory link ...
-    SharedMemory link started successfully
-Trying to start TCPIP link ...
-Starting on port 2638
-    TCPIP link started successfully
-Now accepting requests
-Press 'q' to shut down the database server
+###### Automatic tuning of multiprogramming level is enabled
+###### Starting database "demo" (/root/sqlanywhere16/demo.db) at Fri Aug 01 2025 22:13
+###### Direct IO disabled for file '/root/sqlanywhere16/demo.db' because the file system on which it resides does not support it
+###### Transaction log: demo.log
+###### Starting checkpoint of "demo" (demo.db) at Fri Aug 01 2025 22:13
+###### Finished checkpoint of "demo" (demo.db) at Fri Aug 01 2025 22:13
+###### Database "demo" (demo.db) started at Fri Aug 01 2025 22:13
+###### Database server started at Fri Aug 01 2025 22:13
+###### Trying to start SharedMemory link ...
+######     SharedMemory link started successfully
+###### Trying to start TCPIP link ...
+###### Starting on port 2638
+######     TCPIP link started successfully
+###### Now accepting requests
+###### Press 'q' to shut down the database server
