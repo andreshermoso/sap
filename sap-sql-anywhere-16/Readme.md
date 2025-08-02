@@ -94,7 +94,7 @@
 
 |DATABASE|TABLE ID|TABLE PAGES|%used|% of file|TABLE NAME|
 |:------:|:------:|:---------:|:---:|:-------:|:--:|
-|DEMO|    738|         4  ( 71)|         2  ( 45)|      0|    Customers|
+|demo|    738|         4  ( 71)|         2  ( 45)|      0|    Customers|
 ||    739|         2  ( 67)|         2  ( 13)|      0|    Contacts|
 ||    740|         6  ( 86)|         6  ( 37)|      1|    SalesOrders|
 ||    741|         7  ( 88)|        11  ( 62)|      2|    SalesOrderItems|
@@ -106,4 +106,5 @@
 ||    747|         2  ( 51)|         2  (  9)|      0|    MarketingInformation|
 ||    748|         3  ( 68)|         1  ( 12)|      0|    SpatialContacts|
 ||    749|         2  ( 64)|         1  ( 10)|      0|    SpatialShapes|
+#
 
