@@ -90,3 +90,19 @@
 ######     TCPIP link started successfully
 ###### Now accepting requests
 ###### Press 'q' to shut down the database server
+
+|DATABASE|TABLE ID|TABLE PAGES|%used|% of file|NAME|
+|:------:|:------:|:---------:|:---:|:-------:|:--:|
+    738         4  ( 71)         2  ( 45)      0    Customers
+    739         2  ( 67)         2  ( 13)      0    Contacts
+    740         6  ( 86)         6  ( 37)      1    SalesOrders
+    741         7  ( 88)        11  ( 62)      2    SalesOrderItems
+    742        20  ( 91)         5  ( 10)      3    Products
+    743         1  (  5)         1  (  9)      0    FinancialCodes
+    744         1  ( 43)         2  ( 25)      0    FinancialData
+    745         1  (  3)         2  (  9)      0    Departments
+    746         3  ( 71)         3  ( 27)      0    Employees
+    747         2  ( 51)         2  (  9)      0    MarketingInformation
+    748         3  ( 68)         1  ( 12)      0    SpatialContacts
+    749         2  ( 64)         1  ( 10)      0    SpatialShapes
+
