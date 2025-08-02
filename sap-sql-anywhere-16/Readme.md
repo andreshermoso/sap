@@ -1,4 +1,7 @@
 ##
+##### [starting point for topics around SQL Anywhere](https://help.sap.com/docs/SUPPORT_CONTENT/sqlany/3362971493.html)
+
+##
 ##### root#>
     source ./sa_config.sh
 
