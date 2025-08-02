@@ -68,13 +68,13 @@
 ###### This server is licensed to:
 ######    Developer Edition
 ######    Restricted Use
-Running Linux 5.0.0-23-generic #24~18.04.1-Ubuntu SMP Mon Jul 29 16:12:28 UTC 2019 on X86_64
-Server built for X86_64 processor architecture
-Direct IO disabled for file '/root/sqlanywhere16/demo.db' because the file system on which it resides does not support it
-15824K of memory used for caching
-Minimum cache size: 15824K, maximum cache size: 14696416K
-Using a maximum page size of 4096 bytes
-Multiprogramming level: minimum:4, current:20, maximum:80
+###### Running Linux 5.0.0-23-generic #24~18.04.1-Ubuntu SMP Mon Jul 29 16:12:28 UTC 2019 on X86_64
+###### Server built for X86_64 processor architecture
+###### Direct IO disabled for file '/root/sqlanywhere16/demo.db' because the file system on which it resides does not support it
+###### 15824K of memory used for caching
+###### Minimum cache size: 15824K, maximum cache size: 14696416K
+###### Using a maximum page size of 4096 bytes
+###### Multiprogramming level: minimum:4, current:20, maximum:80
 Automatic tuning of multiprogramming level is enabled
 Starting database "demo" (/root/sqlanywhere16/demo.db) at Fri Aug 01 2025 22:13
 Direct IO disabled for file '/root/sqlanywhere16/demo.db' because the file system on which it resides does not support it
