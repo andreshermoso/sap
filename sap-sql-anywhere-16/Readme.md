@@ -62,12 +62,12 @@
 #### Use of this software is governed by the Sybase License Agreement.
 #### Refer to http://www.sybase.com/softwarelicenses.
 
-Connection limit (licensed seats): 3
-Processors detected: 1 (containing 4 logical processors)
-Maximum number of processors the server will use: 1 physical processor(s), 2 core(s)
-This server is licensed to:
-    Developer Edition
-    Restricted Use
+##### Connection limit (licensed seats): 3
+###### Processors detected: 1 (containing 4 logical processors)
+###### Maximum number of processors the server will use: 1 physical processor(s), 2 core(s)
+###### This server is licensed to:
+######    Developer Edition
+######    Restricted Use
 Running Linux 5.0.0-23-generic #24~18.04.1-Ubuntu SMP Mon Jul 29 16:12:28 UTC 2019 on X86_64
 Server built for X86_64 processor architecture
 Direct IO disabled for file '/root/sqlanywhere16/demo.db' because the file system on which it resides does not support it
