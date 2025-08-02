@@ -1,5 +1,5 @@
 ##
-##### [starting point for topics around SQL Anywhere](https://help.sap.com/docs/SUPPORT_CONTENT/sqlany/3362971493.html) <img width="92" height="350" align="left" alt="ANY" src="https://help.sap.com/doc/sqlany/1.0/en-US/thumbnails/3362971494/engine128.png" />
+##### [starting point for topics around SQL Anywhere](https://help.sap.com/docs/SUPPORT_CONTENT/sqlany/3362971493.html) <img width="92" height="350" align="right" alt="ANY" src="https://help.sap.com/doc/sqlany/1.0/en-US/thumbnails/3362971494/engine128.png" />
 
 ##
 ##### root#>
