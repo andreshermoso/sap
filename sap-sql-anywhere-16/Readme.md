@@ -90,6 +90,7 @@
 ######     TCPIP link started successfully
 ###### Now accepting requests
 ###### Press 'q' to shut down the database server
+#
 
 |DATABASE|TABLE ID|TABLE PAGES|%used|% of file|TABLE NAME|
 |:------:|:------:|:---------:|:---:|:-------:|:--:|
