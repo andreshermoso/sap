@@ -1,6 +1,6 @@
 ##
 ##### [starting point for topics around SQL Anywhere](https://help.sap.com/docs/SUPPORT_CONTENT/sqlany/3362971493.html)
-
+https://help.sap.com/doc/sqlany/1.0/en-US/thumbnails/3362971494/engine128.png
 ##
 ##### root#>
     source ./sa_config.sh
