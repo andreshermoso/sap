@@ -1,7 +1,9 @@
 ##
 ##### AIA from purpose to development and testing <img width="24" height="24" align="right" alt="githubcopilot" src="https://github.com/user-attachments/assets/ef1e0687-1328-4e3c-879b-0bbd81306321" />
 
-
+1. Define purpose
+2. dd
+3. dd
 
 
 ##
