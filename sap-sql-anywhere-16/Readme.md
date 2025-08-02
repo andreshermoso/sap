@@ -93,7 +93,7 @@
 
 |DATABASE|TABLE ID|TABLE PAGES|%used|% of file|NAME|
 |:------:|:------:|:---------:|:---:|:-------:|:--:|
-    738         4  ( 71)         2  ( 45)      0    Customers
+|DEMO|    738|         4  ( 71)|         2  ( 45)|      0|    Customers|
     739         2  ( 67)         2  ( 13)      0    Contacts
     740         6  ( 86)         6  ( 37)      1    SalesOrders
     741         7  ( 88)        11  ( 62)      2    SalesOrderItems
