@@ -2,7 +2,7 @@
 ##### AIA from purpose to development and testing <img width="24" height="24" align="right" alt="githubcopilot" src="https://github.com/user-attachments/assets/ef1e0687-1328-4e3c-879b-0bbd81306321" />
 
 ##
-#####  - Define the Purpose
+#####  -  Define the Purpose
     source ./sa_config.sh
 
 ##
