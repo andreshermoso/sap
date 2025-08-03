@@ -5,7 +5,7 @@
 Clearly articulate what the AI agent should achieve. This includes identifying the problem it solves, its target users, and the specific tasks it will perform (e.g., text processing, image analysis, conversation handling, or prediction)
 
 ##
-Select the appropriate programming language (e.g., Python), frameworks (e.g., LangChain, CrewAI), and libraries based on the agent's purpose. For example, if the agent interacts with Large Language Models (LLMs), consider using libraries like langchain-openai or litellm
+Select the appropriate programming language (e.g., Python), frameworks (e.g., LangChain, CrewAI), and libraries based on the agent's purpose. For example, if the agent interacts with Large Language Models (LLMs), consider using libraries like <i>langchain-openai</i> or litellm
 
 ##
 Collect the necessary data for training or informing the agent. This might involve text data for conversational agents, image datasets for vision tasks, or structured data for predictive models
