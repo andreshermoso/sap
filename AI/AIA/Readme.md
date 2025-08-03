@@ -2,7 +2,7 @@
 #### AIA from purpose to development and testing <img width="24" height="24" align="right" alt="githubcopilot" src="https://github.com/user-attachments/assets/ef1e0687-1328-4e3c-879b-0bbd81306321" />
 
 ##
-source ./sa_config.sh
+Clearly articulate what the AI agent should achieve. This includes identifying the problem it solves, its target users, and the specific tasks it will perform (e.g., text processing, image analysis, conversation handling, or prediction)
 
 ##
 ##### PATH to locate SQL Anywhere executables and libraries
