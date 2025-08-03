@@ -16,15 +16,17 @@ Determine how the agent will function, including its components (e.g., LLM, tool
 ##
 Implement the agent's logic using the chosen tools and frameworks. This involves
 - __Setting up the environment__ Create a project directory and a virtual environment
-- Installing dependencies: Install necessary packages (e.g., langgraph, langchain, python-dotenv)
-- Integrating with LLMs: Connect to an LLM provider (e.g., OpenAI) to enable the agent's reasoning capabilities
-- Defining tools: Create functions or APIs that the agent can call to perform specific actions (e.g., searching the web, interacting with a calendar)
-- Building the agent logic: Implement the core reasoning and action loops, potentially using a framework like LangGraph to define the agent's state and transitions
+- __Installing dependencies__ Install necessary packages (e.g., langgraph, langchain, python-dotenv)
+- __Integrating with LLMs__ Connect to an LLM provider (e.g., OpenAI) to enable the agent's reasoning capabilities
+- __Defining tools__ Create functions or APIs that the agent can call to perform specific actions (e.g., searching the web, interacting with a calendar)
+- __Building the agent logic__ Implement the core reasoning and action loops, potentially using a framework like LangGraph to define the agent's state and transitions
 
 ##
 Thoroughly test the agent's functionality and performance. This includes
 - __Unit testing__ Test individual components and tools to ensure they work as expected
-- g
+- __End-to-end testing__ Test the agent's complete workflow, simulating real-world scenarios
+- __Evaluating performance__ Measure metrics relevant to the agent's purpose (e.g., accuracy, response time)
+- __Iterating on the design__ Based on testing results, refine the agent's architecture, prompts, and tool definitions
 
 ##
 ##### ODBCINI points to the location of the odbc.ini file, which contains Data Source Name (DSN) entries
