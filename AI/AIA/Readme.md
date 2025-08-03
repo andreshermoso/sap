@@ -5,18 +5,20 @@
 Clearly articulate what the AI agent should achieve. This includes identifying the problem it solves, its target users, and the specific tasks it will perform (e.g., text processing, image analysis, conversation handling, or prediction)
 
 ##
-##### PATH to locate SQL Anywhere executables and libraries
-    /root/sqlanywhere16/bin64/jre170/bin/:/root/sqlanywhere16/bin64:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+Select the appropriate programming language (e.g., Python), frameworks (e.g., LangChain, CrewAI), and libraries based on the agent's purpose. For example, if the agent interacts with Large Language Models (LLMs), consider using libraries like langchain-openai or litellm
 
 ##
-##### SQLANY16 points to the installation directory of SQL Anywhere 16
-    /root/sqlanywhere16
+Collect the necessary data for training or informing the agent. This might involve text data for conversational agents, image datasets for vision tasks, or structured data for predictive models
 
 ##
-##### LD_LIBRARY_PATH specifies the location of shared libraries (i.e ODBC driver libraries)
-    /root/sqlanywhere16/lib64:/root/sqlanywhere16/bin64/jre170/lib/amd64/client:/root/sqlanywhere16/bin64/jre170/lib/amd64/server:/root/sqlanywhere16/bin64/jre170/lib/amd64:/root/sqlanywhere16/bin64/jre170/lib/amd64/native_threads:
+Determine how the agent will function, including its components (e.g., LLM, tools, memory) and how they interact. Consider frameworks like ReAct (Reason + Act) where the agent reasons, acts using tools, and observes the outcome.
 
 ##
+Implement the agent's logic using the chosen tools and frameworks. This involves
+- Setting up the environment: Create a project directory and a virtual environment
+- s
+
+
 ##### DYLD_LIBRARY_PATH (Max OS X)
 
 ##
