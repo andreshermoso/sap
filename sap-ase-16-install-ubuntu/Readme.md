@@ -1,3 +1,6 @@
+##
+## Adaptive Server Enterprise (Edition not set - under grace)
+### Adaptive Server Enterprise/16.1 SP00 PL00/EBF 30672 SMP/P/x86_64/Linux 5.14.21-150400.24.147-default/ase161sp00pl00/3343/64-bit/FBO/Thu Feb  6 02:47:09 2025
 
 |SAP ASE16 CUSTOM INSTALL|SAP ASE16 FULL INSTALL|
 |:----------------------:|:--------------------:|
