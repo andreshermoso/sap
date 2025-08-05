@@ -1,4 +1,4 @@
-#### Confidential property of SAP AG or an SAP affiliate company
+#### Confidential property of SAP AG or an SAP affiliate company. Copyright 2025 SAP AG or an SAP affiliate company.  All rights reserved.
 ## Adaptive Server Enterprise (Edition not set - under grace) \
 ## d
 ##### Adaptive Server Enterprise/16.1 SP00 PL00/EBF 30672 SMP/P/x86_64/Linux 5.14.21-150400.24.147-default/ase161sp00pl00/3343/64-bit
