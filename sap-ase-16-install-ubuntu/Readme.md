@@ -1,10 +1,10 @@
 #### Confidential property of SAP AG or an SAP affiliate company. Copyright 2025 SAP AG or an SAP affiliate company.
 __ASE booted on host 'sap' running Linux release 5.15.0-151-generic version #161-Ubuntu__
-## Adaptive Server Enterprise (Edition not set - under grace) \
-## d
-##### Adaptive Server Enterprise/16.1 SP00 PL00/EBF 30672 SMP/P/x86_64/Linux 5.14.21-150400.24.147-default/ase161sp00pl00/3343/64-bit
-##
+__Adaptive Server Enterprise/16.1 SP00 PL00/EBF 30672 SMP/P/x86_64/Linux 5.14.21-150400.24.147-default/ase161sp00pl00/3343/64-bit__
+__Adaptive Server Enterprise (Edition not set - under grace)__
 
+
+#
 |SAP ASE16 CUSTOM INSTALL|SAP ASE16 FULL INSTALL|
 |:----------------------:|:--------------------:|
 |SAP Adaptive Server Enterprise|SAP Adaptive Server Enterprise|
