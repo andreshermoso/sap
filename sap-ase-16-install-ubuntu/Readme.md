@@ -25,3 +25,5 @@
 ||XA Interface Library for SAP ASE Distributed Transaction Manager|
 ||SAP ASE ODBC Driver|
 
+##
+# Adaptive Server Enterprise (Edition not set - under grace)
