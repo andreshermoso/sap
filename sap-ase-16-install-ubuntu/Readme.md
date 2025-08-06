@@ -18,6 +18,7 @@
 |Interactive SQL|
 |QPTune|
 |SySAM License Utilities|
+|SySAM License Server|
 |Cockpit|
 |SAP ASE Cockpit|
 |Remote Command and Control Agent for SAP ASE|
