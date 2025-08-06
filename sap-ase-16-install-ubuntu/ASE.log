@@ -1,0 +1,497 @@
+00:0000:00000:00000:2025/08/06 00:23:56.26 kernel  SySAM: Using licenses from: /usr/local/flexlm/licenses/license.dat
+00:0000:00000:00000:2025/08/06 00:23:56.31 kernel  SySAM: Checked out graced license for 1 ASE_CORE (2025.0206) will expire Mon 03 Nov 2025 01:53:24 AM UTC.
+00:0000:00000:00000:2025/08/06 00:23:56.32 kernel  SySAM: Failed to obtain license(s) for ASE_CORE feature from license file(s) or server(s).
+00:0000:00000:00000:2025/08/06 00:23:56.32 kernel  SySAM: Cannot find license file.
+00:0000:00000:00000:2025/08/06 00:23:56.32 kernel  SySAM:  The license files (or license server system network addresses) attempted are listed below.
+00:0000:00000:00000:2025/08/06 00:23:56.32 kernel  SySAM: License feature name:  ASE_CORE
+00:0000:00000:00000:2025/08/06 00:23:56.32 kernel  SySAM: License filename:      /ASE/SYSAM-2_0/licenses
+00:0000:00000:00000:2025/08/06 00:23:56.32 kernel  SySAM: License search path:   /ASE/SYSAM-2_0/licenses
+00:0000:00000:00000:2025/08/06 00:23:56.32 kernel  SySAM: FlexNet Licensing error:-1,359.  System Error: 2 "No such file or directory"
+00:0000:00000:00000:2025/08/06 00:23:56.32 kernel  Error: 131274, Severity: 17, State: 1
+00:0000:00000:00000:2025/08/06 00:23:56.32 kernel  SySAM: WARNING: ASE will shutdown on Mon 03 Nov 2025 01:53:24 AM UTC, unless a suitable ASE_CORE license is obtained before that date.
+00:0000:00000:00000:2025/08/06 00:23:56.32 kernel  This product is licensed to: 
+00:0000:00000:00000:2025/08/06 00:23:56.32 kernel  Checked out license ASE_CORE
+00:0000:00000:00000:2025/08/06 00:23:56.32 kernel  Adaptive Server Enterprise (Edition not set - under grace)
+00:0000:00000:00000:2025/08/06 00:23:56.32 kernel  Using config area from primary master device.
+00:0000:00000:00000:2025/08/06 00:23:56.33 kernel  specified rules file /ASE/ASE/.rules does not exist, creating it as an empty rules file
+00:0000:00000:00000:2025/08/06 00:23:56.33 kernel  location specified for rules file '/ASE/ASE/.rules' is not usable, rule system disabled
+00:0000:00000:00000:2025/08/06 00:23:56.33 server  The configuration option 'enable compatibility mode' is currently not supported in SAP Adaptive Server.
+00:0000:00000:00000:2025/08/06 00:23:56.33 server  The configuration option 'simplified native access plan' is currently not supported in SAP Adaptive Server.
+00:0000:00000:00000:2025/08/06 00:23:56.33 server  ***** audproc: WARNING: AUDITING IS NOT ENABLED. *****
+00:0000:00000:00000:2025/08/06 00:23:56.33 server  ***** audproc: WARNING: AUDITING IS NOT ENABLED. *****
+00:0000:00000:00000:2025/08/06 00:23:56.33 kernel  Could not allocate memory using Huge Pages. Allocated using regular pages. For better performance, reboot the server after configuring enough Huge Pages.
+00:0000:00000:00000:2025/08/06 00:23:56.33 kernel  Internal run-time model set for Linux  - Native
+00:0000:00000:00000:2025/08/06 00:23:56.33 kernel  Adaptive Server is using the threaded kernel mode.
+00:0000:00000:00000:2025/08/06 00:23:56.33 kernel  Using 100000 file descriptors.
+00:0000:00000:00000:2025/08/06 00:23:56.34 kernel  Adaptive Server Enterprise/16.1 SP00 PL00/EBF 30672 SMP/P/x86_64/Linux 5.14.21-150400.24.147-default/ase161sp00pl00/3343/64-bit/FBO/Thu Feb  6 02:47:09 2025
+00:0000:00000:00000:2025/08/06 00:23:56.34 kernel  Confidential property of SAP AG or an SAP affiliate company.
+00:0000:00000:00000:2025/08/06 00:23:56.34 kernel  Copyright 2025
+00:0000:00000:00000:2025/08/06 00:23:56.34 kernel  SAP AG or an SAP affiliate company.  All rights reserved.
+00:0000:00000:00000:2025/08/06 00:23:56.34 kernel  Unpublished rights reserved under U.S. copyright laws.
+00:0000:00000:00000:2025/08/06 00:23:56.34 kernel  
+00:0000:00000:00000:2025/08/06 00:23:56.34 kernel  This software contains confidential and trade secret information of SAP AG or
+00:0000:00000:00000:2025/08/06 00:23:56.34 kernel  an SAP affiliate company.  Use,  duplication or disclosure of the software and
+00:0000:00000:00000:2025/08/06 00:23:56.34 kernel  documentation by the  U.S.  Government is subject to restrictions set forth
+00:0000:00000:00000:2025/08/06 00:23:56.34 kernel  in a license agreement between the Government and SAP AG or an SAP affiliate
+00:0000:00000:00000:2025/08/06 00:23:56.34 kernel  company,  or other written agreement specifying the Government's rights to
+00:0000:00000:00000:2025/08/06 00:23:56.34 kernel  use the software and any applicable FAR provisions, for example, FAR 52.227-19.
+00:0000:00000:00000:2025/08/06 00:23:56.34 kernel  SAP AG or an SAP affiliate company
+00:0000:00000:00000:2025/08/06 00:23:56.34 kernel  Using /ASE as the 'SYBASE' environment variable, found during startup.
+00:0000:00000:00000:2025/08/06 00:23:56.34 kernel  Using OCS as the 'SYBASE_OCS' environment variable, found during startup.
+00:0000:00000:00000:2025/08/06 00:23:56.34 kernel  Using ASE as the 'SYBASE_ASE' environment variable, found during startup.
+00:0000:00000:00000:2025/08/06 00:23:56.34 kernel  ASE booted on host 'sap' running Linux release 5.15.0-151-generic version #161-Ubuntu SMP Tue Jul 22 14:25:40 UTC 2025. 
+00:0000:00000:00000:2025/08/06 00:23:56.34 kernel  Using '/ASE/ASE.cfg' for configuration information.
+00:0000:00000:00000:2025/08/06 00:23:56.34 kernel  Logging ASE messages in file '/ASE/ASE.log'.
+00:0000:00000:00000:2025/08/06 00:23:56.34 kernel  Disk Controller Manager is online.
+00:0000:00000:00000:2025/08/06 00:23:56.34 kernel  Network Controller Manager is online.
+00:0000:00000:00000:2025/08/06 00:23:56.34 kernel  Ct-Lib Controller Manager is online.
+00:0000:00000:00000:2025/08/06 00:23:56.35 kernel  Platform TCP network support seems IPv6-aware, IPv4/IPv6 are both enabled.
+00:0000:00000:00000:2025/08/06 00:23:56.35 kernel  ASE booted with TCP_NODELAY enabled.
+00:0000:00000:00000:2025/08/06 00:23:56.35 kernel  ASE - Dynamic Pluggable Component Interface is enabled
+00:0000:00000:00000:2025/08/06 00:23:56.35 kernel  PCI(M0): PCI Memory not available, initializing now....
+00:0000:00000:00000:2025/08/06 00:23:56.35 kernel  PCI(M0):   64.0 Mb. allocated for the PCI Memory pool ....
+00:0000:00000:00000:2025/08/06 00:23:56.35 kernel  ASE_PCI: 4 slot(s) available
+00:0000:00000:00000:2025/08/06 00:23:56.35 kernel  PCI(M0): PCI Bridge initializing the PLB for 4 slots
+00:0000:00000:00000:2025/08/06 00:23:56.35 kernel  PCI(M0): PCI Bridge escapes large memory allocation requests to the run-time
+00:0000:00000:00000:2025/08/06 00:23:56.35 kernel  PCI(M1): Slot 1 has been bound to engine 0
+00:0000:00000:00000:2025/08/06 00:23:56.35 kernel  PCI(M1): Slot 2 has been bound to engine 0
+00:0000:00000:00000:2025/08/06 00:23:56.35 kernel  PCI(M1): ERROR: checkpca_access; PCI Bridge Slot# 1, Module /ASE/ASE/lib/pca/libPCAjvm.so is not found in expected location.
+00:0000:00000:00000:2025/08/06 00:23:56.35 kernel  ASE_PCI: PCI Bridge failed to initialize the PCA components
+00:0000:00000:00000:2025/08/06 00:23:56.35 kernel  ASE_PCI no user plug-in components allowed
+00:0000:00000:00000:2025/08/06 00:23:56.35 kernel  Network and device connection limit is 99985.
+00:0000:00000:00000:2025/08/06 00:23:56.36 kernel  Adaptive Server is running as process id 8337.
+00:0000:00000:00000:2025/08/06 00:23:56.43 server  Number of blocks left for proc headers: 13976.
+00:0000:00000:00000:2025/08/06 00:23:56.43 server  Proc header memory allocated 6950 pages for each per engine cache.
+00:0000:00000:00000:2025/08/06 00:23:56.45 kernel  Create Thread Pool 2, "syb_system_pool", type="Run To Completion", with 1 threads
+00:0000:00000:00000:2025/08/06 00:23:56.45 kernel  Warning: Operating System stack size of 8MB is greater than 2MB. If it is too large, ASE may run out of memory during thread creation. You can reconfigure it using 'limit' (csh) or 'ulimit' (bash)
+00:0000:00000:00000:2025/08/06 00:23:56.45 kernel  Create Thread Pool 3, "syb_blocking_pool", type="Run To Completion", with 4 threads
+00:0000:00000:00000:2025/08/06 00:23:56.45 kernel  Create Thread Pool 1, "syb_default_pool", type="Engine (Multiplexed)", with 1 threads
+00:0000:00000:00000:2025/08/06 00:23:56.45 kernel  Aggressive task stealing enabled
+00:0000:00000:00000:2025/08/06 00:23:56.46 kernel  Network controller is configured to read up to 50 events
+00:0000:00000:00000:2025/08/06 00:23:56.46 kernel  Enabling Linux Native Kernel asynchronous disk I/O strategy.
+00:0000:00000:00000:2025/08/06 00:23:56.46 kernel  Initializing virtual device 0, '/ASE/master.dat' with dsync 'off'.
+00:0000:00000:00000:2025/08/06 00:23:56.46 kernel  Virtual device 0 started using asynchronous (with DIRECTIO) i/o.
+00:0000:00000:00000:2025/08/06 00:23:56.46 server  Loaded default Unilib conversion handle.
+00:0000:00000:00000:2025/08/06 00:23:56.46 kernel  Worker Thread Manager is not enabled for use in ASE.
+00:0000:00000:00000:2025/08/06 00:23:56.46 kernel  Either the config parameter 'use security services' is set to 0, or ASE does not support use of external security mechanisms on this platform. The Security Control Layer will not be initialized. No external security mechanisms will be supported.
+00:0000:00000:00000:2025/08/06 00:23:56.46 kernel  Unable to get the latest LDAP dynamic library version.
+00:0000:00000:00000:2025/08/06 00:23:56.47 kernel  Unable to load LDAP dynamic library: '/ASE/OCS/lib3p64/libsybaseldap64.so'.
+00:0007:00000:00000:2025/08/06 00:23:56.46 kernel  I/O controller 2 (NetController) is running as task 786438 on thread 7 (LWP 8392).
+00:0008:00000:00000:2025/08/06 00:23:56.46 kernel  I/O controller 3 (DiskController) is running as task 917511 on thread 8 (LWP 8393).
+00:0000:00000:00000:2025/08/06 00:23:56.48 kernel  Loaded encryption provider CommonCryptoLib 8.5.57 (Sep 24 2024) [SSE3,SSSE3], CryptoKernel version 8.5.57.
+00:0000:00000:00000:2025/08/06 00:23:56.48 kernel  INFORMATION: The FIPS Certified Crypto Kernel is not enabled.
+00:0000:00000:00000:2025/08/06 00:23:56.48 kernel  Begin processing to generate RSA keypair.
+00:0000:00000:00000:2025/08/06 00:23:56.50 kernel  Completed processing to generate RSA keypair.
+00:0006:00000:00000:2025/08/06 00:23:56.50 kernel  ASE - Dynamic Pluggable Component Interface is enabled
+00:0006:00000:00000:2025/08/06 00:23:56.50 kernel  Thread 6 (LWP 8386) of Threadpool syb_default_pool online as engine 0
+00:0006:00000:00000:2025/08/06 00:23:56.50 kernel  bucket manager consolidator online
+00:0006:00000:00000:2025/08/06 00:23:56.50 server  No active traceflags
+00:0006:00000:00002:2025/08/06 00:23:56.50 kernel  libomni1 - Component Integration Services: using 'SAP Client-Library/16.1 SP00 PL00/P-EBF31045/DRV.16.1.00.00/Linux x86_64/Linux 5.14.21-150400.24.136-default x86_64 Native Threads/BUILD1601-001/64bit/OPT/Tue Dec 10 04:21:11 2024'
+00:0006:00000:00002:2025/08/06 00:23:56.50 server  Size of the 2K memory pool for each cachelet (default data cache, total cachelets:1 ): 8192 Kb
+00:0006:00000:00002:2025/08/06 00:23:56.50 server  Opening Master Database ...
+00:0006:00000:00002:2025/08/06 00:23:56.58 server  Loading ASE's default sort order and character set
+00:0006:00000:00002:2025/08/06 00:23:56.59 server  Recovering database 'master' (dbid 1).
+00:0006:00000:00002:2025/08/06 00:23:56.60 server  Started estimating recovery log boundaries for database 'master'.
+00:0006:00000:00002:2025/08/06 00:23:56.60 server  Database 'master', checkpoint=(5848, 14), first=(5848, 14), last=(5850, 2).
+00:0006:00000:00002:2025/08/06 00:23:56.60 server  Completed estimating recovery log boundaries for database 'master'.
+00:0006:00000:00002:2025/08/06 00:23:56.60 server  Started ANALYSIS pass for database 'master'.
+00:0006:00000:00002:2025/08/06 00:23:56.60 server  Completed ANALYSIS pass for database 'master'.
+00:0006:00000:00002:2025/08/06 00:23:56.60 server  Log contains all committed transactions until 2025/08/06 00:07:53.42 for database master.
+00:0006:00000:00002:2025/08/06 00:23:56.60 server  Started REDO pass for database 'master'. The total number of log records to process is 34.
+00:0006:00000:00002:2025/08/06 00:23:56.61 server  Redo pass for database 'master': 34 records done (100%); 0 records left.
+00:0006:00000:00002:2025/08/06 00:23:56.61 server  Redo pass of recovery has processed 3 committed and 0 aborted transactions.
+00:0006:00000:00002:2025/08/06 00:23:56.61 server  Completed REDO pass for database 'master'.
+00:0006:00000:00002:2025/08/06 00:23:56.63 server  Timestamp for database 'master' is (0x0000, 0x00019774).
+00:0006:00000:00002:2025/08/06 00:23:56.63 server  Recovery of database 'master' will undo incomplete nested top actions.
+00:0006:00000:00002:2025/08/06 00:23:56.63 server  Started recovery checkpoint for database 'master'.
+00:0006:00000:00002:2025/08/06 00:23:56.64 server  Completed recovery checkpoint for database 'master'.
+00:0006:00000:00002:2025/08/06 00:23:56.65 server  Started filling free space info for database 'master'.
+00:0006:00000:00002:2025/08/06 00:23:56.66 server  Completed filling free space info for database 'master'.
+00:0006:00000:00002:2025/08/06 00:23:56.66 server  Started cleaning up the default data cache for database 'master'.
+00:0006:00000:00002:2025/08/06 00:23:56.66 server  Completed cleaning up the default data cache for database 'master'.
+00:0006:00000:00002:2025/08/06 00:23:56.69 server  Database 'master' is now online.
+00:0006:00000:00002:2025/08/06 00:23:56.69 server  The transaction log in the database 'master' will use I/O size of 2 Kb.
+00:0000:00000:00000:2025/08/06 00:23:56.71 kernel  [139802208867904] Begin processing to generate RSA keypair.
+00:0006:00000:00002:2025/08/06 00:23:57.09 server  server name is 'ASE'
+00:0006:00000:00002:2025/08/06 00:23:57.09 server  Activating disk 'sysprocsdev' of size 200704 KB.
+00:0006:00000:00002:2025/08/06 00:23:57.09 kernel  Initializing virtual device 1, '/ASE/sysprocs.dat' with dsync 'off'.
+00:0006:00000:00002:2025/08/06 00:23:57.10 kernel  Virtual device 1 started using asynchronous (with DIRECTIO) i/o.
+00:0006:00000:00002:2025/08/06 00:23:57.10 server  Activating disk 'systemdbdev' of size 3072 KB.
+00:0006:00000:00002:2025/08/06 00:23:57.10 kernel  Initializing virtual device 2, '/ASE/sybsysdb.dat' with dsync 'off'.
+00:0006:00000:00002:2025/08/06 00:23:57.10 kernel  Virtual device 2 started using asynchronous (with DIRECTIO) i/o.
+00:0006:00000:00002:2025/08/06 00:23:57.10 server  Activating disk 'tempdbdev' of size 102400 KB.
+00:0006:00000:00002:2025/08/06 00:23:57.10 kernel  Initializing virtual device 3, '/ASE/tempdbdev.dat' with dsync 'off'.
+00:0006:00000:00002:2025/08/06 00:23:57.10 kernel  Virtual device 3 started using asynchronous (with DIRECTIO) i/o.
+00:0006:00000:00002:2025/08/06 00:23:57.10 server  Activating disk 'sybpcidbdev_data' of size 49152 KB.
+00:0006:00000:00002:2025/08/06 00:23:57.10 kernel  Initializing virtual device 4, '/ASE/sybpcidbdev_data.dat' with dsync 'off'.
+00:0006:00000:00002:2025/08/06 00:23:57.10 kernel  Virtual device 4 started using asynchronous (with DIRECTIO) i/o.
+00:0006:00000:00002:2025/08/06 00:23:57.10 server  Activating disk 'sybmgmtdev' of size 77824 KB.
+00:0006:00000:00002:2025/08/06 00:23:57.10 kernel  Initializing virtual device 5, '/ASE/sybmgmtdb.dat' with dsync 'off'.
+00:0006:00000:00002:2025/08/06 00:23:57.10 kernel  Virtual device 5 started using asynchronous (with DIRECTIO) i/o.
+00:0006:00000:00002:2025/08/06 00:23:57.11 server  Activating disk 'ASE' of size 204800 KB.
+00:0006:00000:00002:2025/08/06 00:23:57.11 kernel  Initializing virtual device 6, '/ASE/ASE.dat' with dsync 'off'.
+00:0006:00000:00002:2025/08/06 00:23:57.11 kernel  Virtual device 6 started using asynchronous (with DIRECTIO) i/o.
+00:0006:00000:00002:2025/08/06 00:23:57.35 server  Recovering database 'sybsystemdb' (dbid 31513).
+00:0006:00000:00002:2025/08/06 00:23:57.37 server  Started estimating recovery log boundaries for database 'sybsystemdb'.
+00:0006:00000:00002:2025/08/06 00:23:57.38 server  Database 'sybsystemdb', checkpoint=(1119, 11), first=(1119, 11), last=(1119, 11).
+00:0006:00000:00002:2025/08/06 00:23:57.38 server  Completed estimating recovery log boundaries for database 'sybsystemdb'.
+00:0006:00000:00002:2025/08/06 00:23:57.38 server  Started ANALYSIS pass for database 'sybsystemdb'.
+00:0006:00000:00002:2025/08/06 00:23:57.38 server  Completed ANALYSIS pass for database 'sybsystemdb'.
+00:0006:00000:00002:2025/08/06 00:23:57.38 server  Log contains all committed transactions until 2025/08/06 00:07:51.42 for database sybsystemdb.
+00:0006:00000:00002:2025/08/06 00:23:57.38 server  Started REDO pass for database 'sybsystemdb'. The total number of log records to process is 1.
+00:0006:00000:00002:2025/08/06 00:23:57.40 server  Redo pass for database 'sybsystemdb': 1 records done (100%); 0 records left.
+00:0006:00000:00002:2025/08/06 00:23:57.40 server  Completed REDO pass for database 'sybsystemdb'.
+00:0006:00000:00002:2025/08/06 00:23:57.41 server  Timestamp for database 'sybsystemdb' is (0x0000, 0x000019fa).
+00:0006:00000:00002:2025/08/06 00:23:57.42 server  Recovery of database 'sybsystemdb' will undo incomplete nested top actions.
+00:0006:00000:00002:2025/08/06 00:23:57.42 server  Started recovery checkpoint for database 'sybsystemdb'.
+00:0006:00000:00002:2025/08/06 00:23:57.45 server  Completed recovery checkpoint for database 'sybsystemdb'.
+00:0006:00000:00002:2025/08/06 00:23:57.48 server  Started filling free space info for database 'sybsystemdb'.
+00:0006:00000:00002:2025/08/06 00:23:57.48 server  Completed filling free space info for database 'sybsystemdb'.
+00:0006:00000:00002:2025/08/06 00:23:57.50 server  Started cleaning up the default data cache for database 'sybsystemdb'.
+00:0006:00000:00002:2025/08/06 00:23:57.50 server  Completed cleaning up the default data cache for database 'sybsystemdb'.
+00:0006:00000:00002:2025/08/06 00:23:57.53 server  Boot Count: 9
+00:0006:00000:00002:2025/08/06 00:23:57.57 server  Checking external objects.
+00:0006:00000:00002:2025/08/06 00:23:57.69 server  The transaction log in the database 'sybsystemdb' will use I/O size of 2 Kb.
+00:0006:00000:00002:2025/08/06 00:23:57.70 server  Resident Node id: a009565140e9
+00:0006:00000:00002:2025/08/06 00:23:57.71 server  Transaction coordinator initialized.
+00:0006:00000:00002:2025/08/06 00:23:57.71 server  Database 'sybsystemdb' is now online.
+00:0006:00000:00002:2025/08/06 00:23:57.77 server  Recovering database 'model' (dbid 3).
+00:0000:00000:00000:2025/08/06 00:23:57.78 kernel  [139802208867904] Completed processing to generate RSA keypair.
+00:0006:00000:00002:2025/08/06 00:23:57.78 server  Started estimating recovery log boundaries for database 'model'.
+00:0006:00000:00002:2025/08/06 00:23:57.79 server  Database 'model', checkpoint=(1099, 17), first=(1099, 17), last=(1099, 17).
+00:0006:00000:00002:2025/08/06 00:23:57.79 server  Completed estimating recovery log boundaries for database 'model'.
+00:0006:00000:00002:2025/08/06 00:23:57.80 server  Started ANALYSIS pass for database 'model'.
+00:0006:00000:00002:2025/08/06 00:23:57.80 server  Completed ANALYSIS pass for database 'model'.
+00:0006:00000:00002:2025/08/06 00:23:57.80 server  Log contains all committed transactions until 2025/08/06 00:07:51.42 for database model.
+00:0006:00000:00002:2025/08/06 00:23:57.80 server  Started REDO pass for database 'model'. The total number of log records to process is 1.
+00:0006:00000:00002:2025/08/06 00:23:57.80 server  Redo pass for database 'model': 1 records done (100%); 0 records left.
+00:0006:00000:00002:2025/08/06 00:23:57.80 server  Completed REDO pass for database 'model'.
+00:0006:00000:00002:2025/08/06 00:23:57.80 server  Timestamp for database 'model' is (0x0000, 0x00001942).
+00:0006:00000:00002:2025/08/06 00:23:57.81 server  Recovery of database 'model' will undo incomplete nested top actions.
+00:0006:00000:00002:2025/08/06 00:23:57.81 server  Started recovery checkpoint for database 'model'.
+00:0006:00000:00002:2025/08/06 00:23:57.81 server  Completed recovery checkpoint for database 'model'.
+00:0006:00000:00002:2025/08/06 00:23:57.82 server  Started filling free space info for database 'model'.
+00:0006:00000:00002:2025/08/06 00:23:57.82 server  Completed filling free space info for database 'model'.
+00:0006:00000:00002:2025/08/06 00:23:57.83 server  Started cleaning up the default data cache for database 'model'.
+00:0006:00000:00002:2025/08/06 00:23:57.83 server  Completed cleaning up the default data cache for database 'model'.
+00:0006:00000:00002:2025/08/06 00:23:57.84 server  Checking external objects.
+00:0006:00000:00002:2025/08/06 00:23:57.86 server  The transaction log in the database 'model' will use I/O size of 2 Kb.
+00:0006:00000:00002:2025/08/06 00:23:57.86 server  Database 'model' is now online.
+00:0006:00000:00002:2025/08/06 00:23:57.86 server  The logical pagesize of the server is 2 Kb.
+00:0006:00000:00002:2025/08/06 00:23:57.87 server  0 dump conditions detected at boot time
+00:0006:00000:00002:2025/08/06 00:23:57.87 server  Clearing temporary database 'tempdb'.
+00:0006:00000:00002:2025/08/06 00:23:58.37 server  Tempdb 2 is added to the list of local temporary databases
+00:0006:00000:00002:2025/08/06 00:23:58.38 server  Timestamp for database 'tempdb' is (0x0000, 0x0000194a).
+00:0006:00000:00002:2025/08/06 00:23:58.62 server  Checking external objects.
+00:0006:00000:00002:2025/08/06 00:23:58.64 server  The transaction log in the database 'tempdb' will use I/O size of 2 Kb.
+00:0006:00000:00002:2025/08/06 00:23:58.64 server  Database 'tempdb' is now online.
+00:0006:00000:00009:2025/08/06 00:23:58.64 server  HK_GC task is spawned with spid = 9
+00:0006:00000:00002:2025/08/06 00:23:58.67 server  Recovering database 'sybsystemprocs' (dbid 31514).
+00:0006:00000:00002:2025/08/06 00:23:58.68 server  Started estimating recovery log boundaries for database 'sybsystemprocs'.
+00:0006:00000:00002:2025/08/06 00:23:58.68 server  Database 'sybsystemprocs', checkpoint=(82996, 18), first=(82996, 17), last=(82996, 24).
+00:0006:00000:00002:2025/08/06 00:23:58.68 server  Completed estimating recovery log boundaries for database 'sybsystemprocs'.
+00:0006:00000:00002:2025/08/06 00:23:58.68 server  Started ANALYSIS pass for database 'sybsystemprocs'.
+00:0006:00000:00002:2025/08/06 00:23:58.68 server  Completed ANALYSIS pass for database 'sybsystemprocs'.
+00:0006:00000:00002:2025/08/06 00:23:58.68 server  Log contains all committed transactions until 2025/08/06 00:22:52.50 for database sybsystemprocs.
+00:0006:00000:00002:2025/08/06 00:23:58.68 server  Started REDO pass for database 'sybsystemprocs'. The total number of log records to process is 8.
+00:0006:00000:00002:2025/08/06 00:23:58.69 server  Redo pass for database 'sybsystemprocs': 8 records done (100%); 0 records left.
+00:0006:00000:00002:2025/08/06 00:23:58.69 server  Redo pass of recovery has processed 1 committed and 0 aborted transactions.
+00:0006:00000:00002:2025/08/06 00:23:58.69 server  Completed REDO pass for database 'sybsystemprocs'.
+00:0006:00000:00002:2025/08/06 00:23:58.89 server  Timestamp for database 'sybsystemprocs' is (0x0000, 0x0008514f).
+00:0006:00000:00002:2025/08/06 00:23:58.89 server  Recovery of database 'sybsystemprocs' will undo incomplete nested top actions.
+00:0006:00000:00002:2025/08/06 00:23:58.89 server  Started recovery checkpoint for database 'sybsystemprocs'.
+00:0006:00000:00002:2025/08/06 00:23:58.91 server  Completed recovery checkpoint for database 'sybsystemprocs'.
+00:0006:00000:00002:2025/08/06 00:23:58.92 server  Started filling free space info for database 'sybsystemprocs'.
+00:0006:00000:00002:2025/08/06 00:23:58.92 server  Completed filling free space info for database 'sybsystemprocs'.
+00:0006:00000:00002:2025/08/06 00:23:58.92 server  Started cleaning up the default data cache for database 'sybsystemprocs'.
+00:0006:00000:00002:2025/08/06 00:23:58.93 server  Completed cleaning up the default data cache for database 'sybsystemprocs'.
+00:0006:00000:00002:2025/08/06 00:23:58.93 server  Checking external objects.
+00:0006:00000:00002:2025/08/06 00:23:58.96 server  The transaction log in the database 'sybsystemprocs' will use I/O size of 2 Kb.
+00:0006:00000:00002:2025/08/06 00:23:58.96 server  Database 'sybsystemprocs' is now online.
+00:0006:00000:00011:2025/08/06 00:23:58.96 kernel  network name 192.168.0.17, interface IPv4, address 192.168.0.17, type tcp, port 5000, filter NONE
+00:0006:00000:00002:2025/08/06 00:23:59.20 server  The wash size of the 2K buffer pool in cache default data cache has been changed from 1638 Kb to 984 Kb due to a change in the size of the pool.
+00:0006:00000:00002:2025/08/06 00:23:59.20 server  Info: data caches with large pools are not supported for databases bound to NV cache
+00:0006:00000:00002:2025/08/06 00:23:59.21 server  Recovery has tuned the size of '16K' pool in 'default data cache' to benefit recovery performance. The original configuration will be restored at the end of recovery.
+00:0006:00000:00002:2025/08/06 00:23:59.21 server  Recovery has tuned the size of '2K' pool in 'default data cache' to benefit recovery performance. The original configuration will be restored at the end of recovery.
+00:0006:00000:00002:2025/08/06 00:23:59.21 server  Recovery has tuned the '16K' pool in 'default data cache' by changing its 'local async prefetch limit' from 10 to 80. The original configuration will be restored at the end of recovery.
+00:0006:00000:00002:2025/08/06 00:23:59.21 server  Recovery has tuned the '2K' pool in 'default data cache' by changing its 'local async prefetch limit' from 10 to 80. The original configuration will be restored at the end of recovery.
+00:0006:00000:00002:2025/08/06 00:23:59.21 server  The server will recover databases serially.
+00:0006:00000:00002:2025/08/06 00:23:59.23 server  Recovering database 'pubs2' (dbid 4).
+00:0006:00000:00002:2025/08/06 00:23:59.23 server  Started estimating recovery log boundaries for database 'pubs2'.
+00:0006:00000:00002:2025/08/06 00:23:59.24 server  Database 'pubs2', checkpoint=(1883, 19), first=(1883, 18), last=(1883, 25).
+00:0006:00000:00002:2025/08/06 00:23:59.24 server  Completed estimating recovery log boundaries for database 'pubs2'.
+00:0006:00000:00002:2025/08/06 00:23:59.24 server  Started ANALYSIS pass for database 'pubs2'.
+00:0006:00000:00002:2025/08/06 00:23:59.24 server  Completed ANALYSIS pass for database 'pubs2'.
+00:0006:00000:00002:2025/08/06 00:23:59.24 server  Log contains all committed transactions until 2025/08/06 00:22:52.50 for database pubs2.
+00:0006:00000:00002:2025/08/06 00:23:59.24 server  Started REDO pass for database 'pubs2'. The total number of log records to process is 8.
+00:0006:00000:00002:2025/08/06 00:23:59.24 server  Redo pass for database 'pubs2': 8 records done (100%); 0 records left.
+00:0006:00000:00002:2025/08/06 00:23:59.25 server  Redo pass of recovery has processed 1 committed and 0 aborted transactions.
+00:0006:00000:00002:2025/08/06 00:23:59.25 server  Completed REDO pass for database 'pubs2'.
+00:0006:00000:00002:2025/08/06 00:23:59.25 server  Timestamp for database 'pubs2' is (0x0000, 0x00004c34).
+00:0006:00000:00002:2025/08/06 00:23:59.25 server  Recovery of database 'pubs2' will undo incomplete nested top actions.
+00:0006:00000:00002:2025/08/06 00:23:59.25 server  Started recovery checkpoint for database 'pubs2'.
+00:0006:00000:00002:2025/08/06 00:23:59.27 server  Completed recovery checkpoint for database 'pubs2'.
+00:0006:00000:00002:2025/08/06 00:23:59.28 server  Started filling free space info for database 'pubs2'.
+00:0006:00000:00002:2025/08/06 00:23:59.28 server  Completed filling free space info for database 'pubs2'.
+00:0006:00000:00002:2025/08/06 00:23:59.28 server  Started cleaning up the default data cache for database 'pubs2'.
+00:0006:00000:00002:2025/08/06 00:23:59.28 server  Completed cleaning up the default data cache for database 'pubs2'.
+00:0006:00000:00002:2025/08/06 00:23:59.29 server  Checking external objects.
+00:0006:00000:00002:2025/08/06 00:23:59.52 server  The transaction log in the database 'pubs2' will use I/O size of 2 Kb.
+00:0006:00000:00002:2025/08/06 00:23:59.62 server  Database 'pubs2' is now online.
+00:0006:00000:00002:2025/08/06 00:24:00.15 server  Recovering database 'pubs3' (dbid 5).
+00:0006:00000:00002:2025/08/06 00:24:00.15 server  Started estimating recovery log boundaries for database 'pubs3'.
+00:0006:00000:00002:2025/08/06 00:24:00.16 server  Database 'pubs3', checkpoint=(1779, 27), first=(1779, 26), last=(1780, 4).
+00:0006:00000:00002:2025/08/06 00:24:00.16 server  Completed estimating recovery log boundaries for database 'pubs3'.
+00:0006:00000:00002:2025/08/06 00:24:00.16 server  Started ANALYSIS pass for database 'pubs3'.
+00:0006:00000:00002:2025/08/06 00:24:00.16 server  Completed ANALYSIS pass for database 'pubs3'.
+00:0006:00000:00002:2025/08/06 00:24:00.16 server  Log contains all committed transactions until 2025/08/06 00:22:52.50 for database pubs3.
+00:0006:00000:00002:2025/08/06 00:24:00.16 server  Started REDO pass for database 'pubs3'. The total number of log records to process is 8.
+00:0006:00000:00002:2025/08/06 00:24:00.16 server  Redo pass for database 'pubs3': 8 records done (100%); 0 records left.
+00:0006:00000:00002:2025/08/06 00:24:00.16 server  Redo pass of recovery has processed 1 committed and 0 aborted transactions.
+00:0006:00000:00002:2025/08/06 00:24:00.16 server  Completed REDO pass for database 'pubs3'.
+00:0006:00000:00002:2025/08/06 00:24:00.17 server  Timestamp for database 'pubs3' is (0x0000, 0x00004b8e).
+00:0006:00000:00002:2025/08/06 00:24:00.17 server  Recovery of database 'pubs3' will undo incomplete nested top actions.
+00:0006:00000:00002:2025/08/06 00:24:00.17 server  Started recovery checkpoint for database 'pubs3'.
+00:0006:00000:00002:2025/08/06 00:24:00.18 server  Completed recovery checkpoint for database 'pubs3'.
+00:0006:00000:00002:2025/08/06 00:24:00.19 server  Started filling free space info for database 'pubs3'.
+00:0006:00000:00002:2025/08/06 00:24:00.19 server  Completed filling free space info for database 'pubs3'.
+00:0006:00000:00002:2025/08/06 00:24:00.20 server  Started cleaning up the default data cache for database 'pubs3'.
+00:0006:00000:00002:2025/08/06 00:24:00.20 server  Completed cleaning up the default data cache for database 'pubs3'.
+00:0006:00000:00002:2025/08/06 00:24:00.21 server  Checking external objects.
+00:0006:00000:00002:2025/08/06 00:24:00.23 server  The transaction log in the database 'pubs3' will use I/O size of 2 Kb.
+00:0006:00000:00002:2025/08/06 00:24:00.23 server  Database 'pubs3' is now online.
+00:0006:00000:00002:2025/08/06 00:24:00.25 server  Recovering database 'ASE' (dbid 6).
+00:0006:00000:00002:2025/08/06 00:24:00.26 server  Started estimating recovery log boundaries for database 'ASE'.
+00:0006:00000:00002:2025/08/06 00:24:00.26 server  Database 'ASE', checkpoint=(1108, 20), first=(1108, 20), last=(1108, 20).
+00:0006:00000:00002:2025/08/06 00:24:00.26 server  Completed estimating recovery log boundaries for database 'ASE'.
+00:0006:00000:00002:2025/08/06 00:24:00.26 server  Started ANALYSIS pass for database 'ASE'.
+00:0006:00000:00002:2025/08/06 00:24:00.27 server  Completed ANALYSIS pass for database 'ASE'.
+00:0006:00000:00002:2025/08/06 00:24:00.27 server  Log contains all committed transactions until 2025/08/06 00:07:53.42 for database ASE.
+00:0006:00000:00002:2025/08/06 00:24:00.27 server  Started REDO pass for database 'ASE'. The total number of log records to process is 1.
+00:0006:00000:00002:2025/08/06 00:24:00.27 server  Redo pass for database 'ASE': 1 records done (100%); 0 records left.
+00:0006:00000:00002:2025/08/06 00:24:00.27 server  Completed REDO pass for database 'ASE'.
+00:0006:00000:00002:2025/08/06 00:24:01.14 server  Timestamp for database 'ASE' is (0x0000, 0x00001951).
+00:0006:00000:00002:2025/08/06 00:24:01.14 server  Recovery of database 'ASE' will undo incomplete nested top actions.
+00:0006:00000:00002:2025/08/06 00:24:01.15 server  Started recovery checkpoint for database 'ASE'.
+00:0006:00000:00002:2025/08/06 00:24:01.15 server  Completed recovery checkpoint for database 'ASE'.
+00:0006:00000:00002:2025/08/06 00:24:01.16 server  Started filling free space info for database 'ASE'.
+00:0006:00000:00002:2025/08/06 00:24:01.16 server  Completed filling free space info for database 'ASE'.
+00:0006:00000:00002:2025/08/06 00:24:01.17 server  Started cleaning up the default data cache for database 'ASE'.
+00:0006:00000:00002:2025/08/06 00:24:01.17 server  Completed cleaning up the default data cache for database 'ASE'.
+00:0006:00000:00002:2025/08/06 00:24:01.18 server  Checking external objects.
+00:0006:00000:00002:2025/08/06 00:24:01.20 server  The transaction log in the database 'ASE' will use I/O size of 2 Kb.
+00:0006:00000:00002:2025/08/06 00:24:01.21 server  Database 'ASE' is now online.
+00:0006:00000:00002:2025/08/06 00:24:01.23 server  Recovering database 'sybpcidb' (dbid 31515).
+00:0006:00000:00002:2025/08/06 00:24:01.23 server  Started estimating recovery log boundaries for database 'sybpcidb'.
+00:0006:00000:00002:2025/08/06 00:24:01.24 server  Database 'sybpcidb', checkpoint=(12434, 8), first=(12434, 8), last=(12434, 8).
+00:0006:00000:00002:2025/08/06 00:24:01.24 server  Completed estimating recovery log boundaries for database 'sybpcidb'.
+00:0006:00000:00002:2025/08/06 00:24:01.24 server  Started ANALYSIS pass for database 'sybpcidb'.
+00:0006:00000:00002:2025/08/06 00:24:01.24 server  Completed ANALYSIS pass for database 'sybpcidb'.
+00:0006:00000:00002:2025/08/06 00:24:01.24 server  Log contains all committed transactions until 2025/08/06 00:07:53.42 for database sybpcidb.
+00:0006:00000:00002:2025/08/06 00:24:01.24 server  Started REDO pass for database 'sybpcidb'. The total number of log records to process is 1.
+00:0006:00000:00002:2025/08/06 00:24:01.24 server  Redo pass for database 'sybpcidb': 1 records done (100%); 0 records left.
+00:0006:00000:00002:2025/08/06 00:24:01.24 server  Completed REDO pass for database 'sybpcidb'.
+00:0006:00000:00002:2025/08/06 00:24:01.29 server  Timestamp for database 'sybpcidb' is (0x0000, 0x0000a1cc).
+00:0006:00000:00002:2025/08/06 00:24:01.29 server  Recovery of database 'sybpcidb' will undo incomplete nested top actions.
+00:0006:00000:00002:2025/08/06 00:24:01.30 server  Started recovery checkpoint for database 'sybpcidb'.
+00:0006:00000:00002:2025/08/06 00:24:01.31 server  Completed recovery checkpoint for database 'sybpcidb'.
+00:0006:00000:00002:2025/08/06 00:24:01.32 server  Started filling free space info for database 'sybpcidb'.
+00:0006:00000:00002:2025/08/06 00:24:01.58 server  Completed filling free space info for database 'sybpcidb'.
+00:0006:00000:00002:2025/08/06 00:24:01.87 server  Started cleaning up the default data cache for database 'sybpcidb'.
+00:0006:00000:00002:2025/08/06 00:24:01.87 server  Completed cleaning up the default data cache for database 'sybpcidb'.
+00:0006:00000:00002:2025/08/06 00:24:02.11 server  Checking external objects.
+00:0006:00000:00002:2025/08/06 00:24:02.13 server  The transaction log in the database 'sybpcidb' will use I/O size of 2 Kb.
+00:0006:00000:00002:2025/08/06 00:24:02.13 server  Database 'sybpcidb' is now online.
+00:0006:00000:00002:2025/08/06 00:24:02.15 server  Recovering database 'sybmgmtdb' (dbid 31516).
+00:0006:00000:00002:2025/08/06 00:24:02.15 server  Started estimating recovery log boundaries for database 'sybmgmtdb'.
+00:0006:00000:00002:2025/08/06 00:24:02.16 server  Database 'sybmgmtdb', checkpoint=(15785, 13), first=(15785, 12), last=(15785, 19).
+00:0006:00000:00002:2025/08/06 00:24:02.16 server  Completed estimating recovery log boundaries for database 'sybmgmtdb'.
+00:0006:00000:00002:2025/08/06 00:24:02.16 server  Started ANALYSIS pass for database 'sybmgmtdb'.
+00:0006:00000:00002:2025/08/06 00:24:02.16 server  Completed ANALYSIS pass for database 'sybmgmtdb'.
+00:0006:00000:00002:2025/08/06 00:24:02.16 server  Log contains all committed transactions until 2025/08/06 00:22:52.50 for database sybmgmtdb.
+00:0006:00000:00002:2025/08/06 00:24:02.16 server  Started REDO pass for database 'sybmgmtdb'. The total number of log records to process is 8.
+00:0006:00000:00002:2025/08/06 00:24:02.16 server  Redo pass for database 'sybmgmtdb': 8 records done (100%); 0 records left.
+00:0006:00000:00002:2025/08/06 00:24:02.16 server  Redo pass of recovery has processed 1 committed and 0 aborted transactions.
+00:0006:00000:00002:2025/08/06 00:24:02.16 server  Completed REDO pass for database 'sybmgmtdb'.
+00:0006:00000:00002:2025/08/06 00:24:02.24 server  Timestamp for database 'sybmgmtdb' is (0x0000, 0x000120b3).
+00:0006:00000:00002:2025/08/06 00:24:02.24 server  Recovery of database 'sybmgmtdb' will undo incomplete nested top actions.
+00:0006:00000:00002:2025/08/06 00:24:02.24 server  Started recovery checkpoint for database 'sybmgmtdb'.
+00:0006:00000:00002:2025/08/06 00:24:02.26 server  Completed recovery checkpoint for database 'sybmgmtdb'.
+00:0006:00000:00002:2025/08/06 00:24:02.27 server  Started filling free space info for database 'sybmgmtdb'.
+00:0006:00000:00002:2025/08/06 00:24:02.27 server  Completed filling free space info for database 'sybmgmtdb'.
+00:0006:00000:00002:2025/08/06 00:24:02.27 server  Started cleaning up the default data cache for database 'sybmgmtdb'.
+00:0006:00000:00002:2025/08/06 00:24:02.28 server  Completed cleaning up the default data cache for database 'sybmgmtdb'.
+00:0006:00000:00002:2025/08/06 00:24:02.29 server  Checking external objects.
+00:0006:00000:00002:2025/08/06 00:24:02.50 server  The transaction log in the database 'sybmgmtdb' will use I/O size of 2 Kb.
+00:0006:00000:00002:2025/08/06 00:24:02.65 server  Database 'sybmgmtdb' is now online.
+00:0006:00000:00002:2025/08/06 00:24:02.81 server  Recovery has restored the value of 'local async prefetch limit' for '16K' pool in 'default data cache' from '80' to 'DEFAULT'.
+00:0006:00000:00002:2025/08/06 00:24:02.81 server  Recovery has restored the value of 'local async prefetch limit' for '2K' pool in 'default data cache' from '80' to 'DEFAULT'.
+00:0006:00000:00002:2025/08/06 00:24:02.81 server  Info: data caches with large pools are not supported for databases bound to NV cache
+00:0006:00000:00002:2025/08/06 00:24:02.83 server  Recovery has restored the original size for '16K' pool and '2K' pool in 'default data cache'.
+00:0006:00000:00002:2025/08/06 00:24:02.91 server  Recovery complete.
+00:0006:00000:00002:2025/08/06 00:24:02.91 server  ASE's default unicode sort order is 'binary'.
+00:0006:00000:00002:2025/08/06 00:24:02.91 server  ASE's default sort order is:
+00:0006:00000:00002:2025/08/06 00:24:02.91 server  	'bin_iso_1' (ID = 50)
+00:0006:00000:00002:2025/08/06 00:24:02.91 server  on top of default character set:
+00:0006:00000:00002:2025/08/06 00:24:02.91 server  	'iso_1' (ID = 1).
+00:0006:00000:00002:2025/08/06 00:24:02.91 kernel  PCI(M1): PCI Bridge Config: Starting dynamic PCI Bridge configuration.
+00:0006:00000:00002:2025/08/06 00:24:02.91 kernel  PCI(M1): PCI Bridge Config: Checking for PLB configuration options.
+00:0006:00000:00002:2025/08/06 00:24:03.04 kernel  PCI(M1): PCI Bridge Config: Reconfigured 'PCI scheduling' signal driven.
+00:0006:00000:00002:2025/08/06 00:24:03.04 kernel  PCI(M1): PCI Bridge Config: Engine failover is set to automatic
+00:0006:00000:00002:2025/08/06 00:24:03.04 kernel  PCI(M1): PCI Bridge Config: Reconfigured the maximum number of threads to 1056
+00:0006:00000:00002:2025/08/06 00:24:03.05 kernel  PCI(M1): PCI Bridge Config: Runtime escape allocator is set to : 1 (enabled)
+00:0006:00000:00002:2025/08/06 00:24:03.05 kernel  PCI(M1): PCI Bridge: 'slotring' forced wash cycle has been disabled
+00:0006:00000:00002:2025/08/06 00:24:03.05 kernel  PCI(M1): PCI Bridge Config: Reconfigured 'slotring' washing cycle to 0 (disabled)
+00:0006:00000:00002:2025/08/06 00:24:03.05 kernel  PCI(M1): PCI Bridge Config: Reconfigured 'slotring' washing threshold to 76 (percent).
+00:0006:00000:00002:2025/08/06 00:24:03.05 kernel  PCI(M1): PCI Bridge: 'slotring' wash threshold has been changed to: 76 (percent)
+00:0006:00000:00002:2025/08/06 00:24:03.05 kernel  PCI(M1): PCI Bridge Config: Checking for log options.
+00:0006:00000:00002:2025/08/06 00:24:03.05 kernel  PCI(M1): PCI Bridge Config: Checking for instrumentation options.
+00:0006:00000:00002:2025/08/06 00:24:03.05 kernel  PCI(M1): PCI Bridge Config: Switched on : Force all fetch_classdata hits to Report 
+00:0006:00000:00002:2025/08/06 00:24:03.05 kernel  PCI(M1): PCI Bridge Config: Finished dynamic PCI Bridge configuration.
+00:0006:00000:00002:2025/08/06 00:24:03.06 kernel  PCI(M1): PCI Bridge Config: Start the DPRT setup for : JVM
+00:0006:00000:00002:2025/08/06 00:24:03.07 kernel  PCI(M1): PCI Bridge Config: Finished the DPRT setup for : JVM
+00:0006:00000:00002:2025/08/06 00:24:03.07 kernel  PCI(M1): ERROR: dispatchpca; No active PCA subsystem.
+00:0006:00000:00002:2025/08/06 00:24:03.07 kernel  PCI(M1): PCI Bridge Config: Initial configuration of JVM on slot 1 failed.
+00:0006:00000:00002:2025/08/06 00:24:03.07 kernel  PCI(M1): PCI Bridge Config: Start the DPRT setup for : ODBC
+00:0006:00000:00002:2025/08/06 00:24:03.07 kernel  PCI(M1): PCI Bridge Config: Finished the DPRT setup for : ODBC
+00:0006:00000:00002:2025/08/06 00:24:03.07 kernel  PCI(M1): ERROR: dispatchpca; No active PCA subsystem.
+00:0006:00000:00002:2025/08/06 00:24:03.07 kernel  PCI(M1): PCI Bridge Config: Initial configuration of ODBC on slot 2 failed.
+00:0006:00000:00002:2025/08/06 00:24:03.07 server  Master device size: 44 megabytes, or 22528 virtual pages. (A virtual page is 2048 bytes.)
+00:0006:00000:00013:2025/08/06 00:24:03.31 kernel  Initializing Job Scheduler Task
+00:0006:00000:00013:2025/08/06 00:24:03.35 kernel  Installed Job Scheduler sequencer code version 0.29 - 29 tokens
+.
+00:0006:00000:00013:2025/08/06 00:24:03.55 kernel  Job Scheduler Agent errorlog : /ASE/ASE16_JSAGENT.log.
+00:0006:00000:00013:2025/08/06 00:24:03.55 kernel  Job Scheduler Task state set to running, startcount 1.
+00:0000:00000:00000:2025/08/06 00:24:03.65 kernel  os_syscmd: system function returned error. OS error string: No such file or directory
+00:0001:00000:00000:2025/08/06 00:24:21.51 kernel  Adaptive Server had 25847 major and 5841 minor page faults since boot, and 25847 major and 5841 minor page faults in last 25000 milliseconds.
+00:0006:00000:00013:2025/08/06 00:29:13.53 kernel  Job Scheduler Task failed (re)connecting to its Agent (Connection refused).
+00:0006:00000:00013:2025/08/06 00:29:13.53 kernel  Job Scheduler Task state set to stop.
+00:0006:00000:00013:2025/08/06 00:29:13.53 kernel  Restarting Job Scheduler. 2 restart attempts left. Successful restart attempts so far 0.
+00:0006:00000:00013:2025/08/06 00:29:13.53 kernel  Initializing Job Scheduler Task
+00:0006:00000:00013:2025/08/06 00:29:13.63 kernel  Installed Job Scheduler sequencer code version 0.29 - 29 tokens
+.
+00:0006:00000:00002:2025/08/06 00:29:13.76 kernel  Setting console to nonblocking mode.
+00:0006:00000:00002:2025/08/06 00:29:13.76 kernel  Console logging is enabled. This is controlled via the 'enable console logging' configuration parameter.
+00:0006:00000:00013:2025/08/06 00:29:14.13 kernel  Job Scheduler Agent errorlog : /ASE/ASE16_JSAGENT.log.
+00:0006:00000:00013:2025/08/06 00:29:14.13 kernel  Job Scheduler Task state set to running, startcount 2.
+00:0000:00000:00000:2025/08/06 00:29:14.19 kernel  os_syscmd: system function returned error. OS error string: No such file or directory
+00:0001:00000:00000:2025/08/06 00:29:21.51 kernel  Adaptive Server had 27880 major and 5958 minor page faults since boot, and 1445 major and 63 minor page faults in last 25000 milliseconds.
+00:0006:00000:00013:2025/08/06 00:50:05.55 kernel  Job Scheduler Task failed (re)connecting to its Agent (Connection refused).
+00:0006:00000:00013:2025/08/06 00:50:05.56 kernel  Job Scheduler Task state set to stop.
+00:0006:00000:00013:2025/08/06 00:50:05.56 kernel  Restarting Job Scheduler. 1 restart attempts left. Successful restart attempts so far 1.
+00:0006:00000:00013:2025/08/06 00:50:05.56 kernel  Initializing Job Scheduler Task
+00:0006:00000:00013:2025/08/06 00:50:05.61 kernel  Installed Job Scheduler sequencer code version 0.29 - 29 tokens
+.
+00:0006:00000:00013:2025/08/06 00:50:05.79 kernel  Job Scheduler Agent errorlog : /ASE/ASE16_JSAGENT.log.
+00:0006:00000:00013:2025/08/06 00:50:05.79 kernel  Job Scheduler Task state set to running, startcount 3.
+00:0000:00000:00000:2025/08/06 00:50:05.84 kernel  os_syscmd: system function returned error. OS error string: No such file or directory
+00:0006:00000:00013:2025/08/06 00:55:15.74 kernel  Job Scheduler Task failed (re)connecting to its Agent (Connection refused).
+00:0006:00000:00013:2025/08/06 00:55:15.75 kernel  Job Scheduler Task state set to stop.
+00:0006:00000:00013:2025/08/06 00:55:15.75 kernel  Restarting Job Scheduler. 0 restart attempts left. Successful restart attempts so far 2.
+00:0006:00000:00013:2025/08/06 00:55:15.75 kernel  Initializing Job Scheduler Task
+00:0006:00000:00013:2025/08/06 00:55:15.77 kernel  Installed Job Scheduler sequencer code version 0.29 - 29 tokens
+.
+00:0006:00000:00013:2025/08/06 00:55:15.90 kernel  Job Scheduler Agent errorlog : /ASE/ASE16_JSAGENT.log.
+00:0006:00000:00013:2025/08/06 00:55:15.91 kernel  Job Scheduler Task state set to running, startcount 4.
+00:0000:00000:00000:2025/08/06 00:55:15.96 kernel  os_syscmd: system function returned error. OS error string: No such file or directory
+00:0006:00000:00013:2025/08/06 01:00:25.85 kernel  Job Scheduler Task failed (re)connecting to its Agent (Connection refused).
+00:0006:00000:00013:2025/08/06 01:00:25.85 kernel  Job Scheduler Task state set to stop.
+00:0006:00000:00013:2025/08/06 01:00:25.85 kernel  Job Scheduler exhausted max js restart attempts 3 and is going in dormant state. The next attempt to restart the job scheduler chores will be made after 15 mins or upon user request.
+00:0006:00000:00013:2025/08/06 01:15:25.81 kernel  Restarting the Job Scheduler chores
+00:0006:00000:00013:2025/08/06 01:15:25.81 kernel  Restarting Job Scheduler. 2 restart attempts left. Successful restart attempts so far 3.
+00:0006:00000:00013:2025/08/06 01:15:25.81 kernel  Initializing Job Scheduler Task
+00:0006:00000:00013:2025/08/06 01:15:25.84 kernel  Installed Job Scheduler sequencer code version 0.29 - 29 tokens
+.
+00:0006:00000:00013:2025/08/06 01:15:25.96 kernel  Job Scheduler Agent errorlog : /ASE/ASE16_JSAGENT.log.
+00:0006:00000:00013:2025/08/06 01:15:25.96 kernel  Job Scheduler Task state set to running, startcount 5.
+00:0000:00000:00000:2025/08/06 01:15:26.02 kernel  os_syscmd: system function returned error. OS error string: No such file or directory
+00:0006:00000:00013:2025/08/06 01:20:35.93 kernel  Job Scheduler Task failed (re)connecting to its Agent (Connection refused).
+00:0006:00000:00013:2025/08/06 01:20:35.94 kernel  Job Scheduler Task state set to stop.
+00:0006:00000:00013:2025/08/06 01:20:35.94 kernel  Restarting Job Scheduler. 1 restart attempts left. Successful restart attempts so far 4.
+00:0006:00000:00013:2025/08/06 01:20:35.94 kernel  Initializing Job Scheduler Task
+00:0006:00000:00013:2025/08/06 01:20:35.97 kernel  Installed Job Scheduler sequencer code version 0.29 - 29 tokens
+.
+00:0006:00000:00013:2025/08/06 01:20:36.09 kernel  Job Scheduler Agent errorlog : /ASE/ASE16_JSAGENT.log.
+00:0006:00000:00013:2025/08/06 01:20:36.09 kernel  Job Scheduler Task state set to running, startcount 6.
+00:0000:00000:00000:2025/08/06 01:20:36.14 kernel  os_syscmd: system function returned error. OS error string: No such file or directory
+00:0006:00000:00013:2025/08/06 01:25:46.04 kernel  Job Scheduler Task failed (re)connecting to its Agent (Connection refused).
+00:0006:00000:00013:2025/08/06 01:25:46.04 kernel  Job Scheduler Task state set to stop.
+00:0006:00000:00013:2025/08/06 01:25:46.04 kernel  Restarting Job Scheduler. 0 restart attempts left. Successful restart attempts so far 5.
+00:0006:00000:00013:2025/08/06 01:25:46.04 kernel  Initializing Job Scheduler Task
+00:0006:00000:00013:2025/08/06 01:25:46.07 kernel  Installed Job Scheduler sequencer code version 0.29 - 29 tokens
+.
+00:0006:00000:00013:2025/08/06 01:25:46.19 kernel  Job Scheduler Agent errorlog : /ASE/ASE16_JSAGENT.log.
+00:0006:00000:00013:2025/08/06 01:25:46.19 kernel  Job Scheduler Task state set to running, startcount 7.
+00:0000:00000:00000:2025/08/06 01:25:46.25 kernel  os_syscmd: system function returned error. OS error string: No such file or directory
+00:0006:00000:00013:2025/08/06 01:30:56.14 kernel  Job Scheduler Task failed (re)connecting to its Agent (Connection refused).
+00:0006:00000:00013:2025/08/06 01:30:56.14 kernel  Job Scheduler Task state set to stop.
+00:0006:00000:00013:2025/08/06 01:30:56.14 kernel  Job Scheduler exhausted max js restart attempts 3 and is going in dormant state. The next attempt to restart the job scheduler chores will be made after 15 mins or upon user request.
+00:0006:00000:00013:2025/08/06 01:45:56.12 kernel  Restarting the Job Scheduler chores
+00:0006:00000:00013:2025/08/06 01:45:56.12 kernel  Restarting Job Scheduler. 2 restart attempts left. Successful restart attempts so far 6.
+00:0006:00000:00013:2025/08/06 01:45:56.12 kernel  Initializing Job Scheduler Task
+00:0006:00000:00013:2025/08/06 01:45:56.15 kernel  Installed Job Scheduler sequencer code version 0.29 - 29 tokens
+.
+00:0006:00000:00013:2025/08/06 01:45:56.28 kernel  Job Scheduler Agent errorlog : /ASE/ASE16_JSAGENT.log.
+00:0006:00000:00013:2025/08/06 01:45:56.28 kernel  Job Scheduler Task state set to running, startcount 8.
+00:0000:00000:00000:2025/08/06 01:45:56.33 kernel  os_syscmd: system function returned error. OS error string: No such file or directory
+00:0006:00000:00013:2025/08/06 01:51:06.27 kernel  Job Scheduler Task failed (re)connecting to its Agent (Connection refused).
+00:0006:00000:00013:2025/08/06 01:51:06.27 kernel  Job Scheduler Task state set to stop.
+00:0006:00000:00013:2025/08/06 01:51:06.27 kernel  Restarting Job Scheduler. 1 restart attempts left. Successful restart attempts so far 7.
+00:0006:00000:00013:2025/08/06 01:51:06.27 kernel  Initializing Job Scheduler Task
+00:0006:00000:00013:2025/08/06 01:51:06.30 kernel  Installed Job Scheduler sequencer code version 0.29 - 29 tokens
+.
+00:0006:00000:00013:2025/08/06 01:51:06.42 kernel  Job Scheduler Agent errorlog : /ASE/ASE16_JSAGENT.log.
+00:0006:00000:00013:2025/08/06 01:51:06.42 kernel  Job Scheduler Task state set to running, startcount 9.
+00:0000:00000:00000:2025/08/06 01:51:06.47 kernel  os_syscmd: system function returned error. OS error string: No such file or directory
+00:0006:00000:00013:2025/08/06 01:56:16.44 kernel  Job Scheduler Task failed (re)connecting to its Agent (Connection refused).
+00:0006:00000:00013:2025/08/06 01:56:16.45 kernel  Job Scheduler Task state set to stop.
+00:0006:00000:00013:2025/08/06 01:56:16.45 kernel  Restarting Job Scheduler. 0 restart attempts left. Successful restart attempts so far 8.
+00:0006:00000:00013:2025/08/06 01:56:16.45 kernel  Initializing Job Scheduler Task
+00:0006:00000:00013:2025/08/06 01:56:16.47 kernel  Installed Job Scheduler sequencer code version 0.29 - 29 tokens
+.
+00:0006:00000:00013:2025/08/06 01:56:16.60 kernel  Job Scheduler Agent errorlog : /ASE/ASE16_JSAGENT.log.
+00:0006:00000:00013:2025/08/06 01:56:16.60 kernel  Job Scheduler Task state set to running, startcount 10.
+00:0000:00000:00000:2025/08/06 01:56:16.65 kernel  os_syscmd: system function returned error. OS error string: No such file or directory
+00:0006:00000:00013:2025/08/06 02:01:26.54 kernel  Job Scheduler Task failed (re)connecting to its Agent (Connection refused).
+00:0006:00000:00013:2025/08/06 02:01:26.55 kernel  Job Scheduler Task state set to stop.
+00:0006:00000:00013:2025/08/06 02:01:26.55 kernel  Job Scheduler exhausted max js restart attempts 3 and is going in dormant state. The next attempt to restart the job scheduler chores will be made after 15 mins or upon user request.
+00:0006:00000:00013:2025/08/06 02:16:26.51 kernel  Restarting the Job Scheduler chores
+00:0006:00000:00013:2025/08/06 02:16:26.51 kernel  Restarting Job Scheduler. 2 restart attempts left. Successful restart attempts so far 9.
+00:0006:00000:00013:2025/08/06 02:16:26.51 kernel  Initializing Job Scheduler Task
+00:0006:00000:00013:2025/08/06 02:16:26.56 kernel  Installed Job Scheduler sequencer code version 0.29 - 29 tokens
+.
+00:0006:00000:00013:2025/08/06 02:16:26.72 kernel  Job Scheduler Agent errorlog : /ASE/ASE16_JSAGENT.log.
+00:0006:00000:00013:2025/08/06 02:16:26.72 kernel  Job Scheduler Task state set to running, startcount 11.
+00:0000:00000:00000:2025/08/06 02:16:26.79 kernel  os_syscmd: system function returned error. OS error string: No such file or directory
+00:0006:00000:00013:2025/08/06 02:21:36.72 kernel  Job Scheduler Task failed (re)connecting to its Agent (Connection refused).
+00:0006:00000:00013:2025/08/06 02:21:36.73 kernel  Job Scheduler Task state set to stop.
+00:0006:00000:00013:2025/08/06 02:21:36.73 kernel  Restarting Job Scheduler. 1 restart attempts left. Successful restart attempts so far 10.
+00:0006:00000:00013:2025/08/06 02:21:36.73 kernel  Initializing Job Scheduler Task
+00:0006:00000:00013:2025/08/06 02:21:36.76 kernel  Installed Job Scheduler sequencer code version 0.29 - 29 tokens
+.
+00:0006:00000:00013:2025/08/06 02:21:36.88 kernel  Job Scheduler Agent errorlog : /ASE/ASE16_JSAGENT.log.
+00:0006:00000:00013:2025/08/06 02:21:36.88 kernel  Job Scheduler Task state set to running, startcount 12.
+00:0000:00000:00000:2025/08/06 02:21:36.93 kernel  os_syscmd: system function returned error. OS error string: No such file or directory
+00:0006:00000:00013:2025/08/06 02:26:46.85 kernel  Job Scheduler Task failed (re)connecting to its Agent (Connection refused).
+00:0006:00000:00013:2025/08/06 02:26:46.85 kernel  Job Scheduler Task state set to stop.
+00:0006:00000:00013:2025/08/06 02:26:46.85 kernel  Restarting Job Scheduler. 0 restart attempts left. Successful restart attempts so far 11.
+00:0006:00000:00013:2025/08/06 02:26:46.85 kernel  Initializing Job Scheduler Task
+00:0006:00000:00013:2025/08/06 02:26:46.88 kernel  Installed Job Scheduler sequencer code version 0.29 - 29 tokens
+.
+00:0006:00000:00013:2025/08/06 02:26:47.02 kernel  Job Scheduler Agent errorlog : /ASE/ASE16_JSAGENT.log.
+00:0006:00000:00013:2025/08/06 02:26:47.02 kernel  Job Scheduler Task state set to running, startcount 13.
+00:0000:00000:00000:2025/08/06 02:26:47.07 kernel  os_syscmd: system function returned error. OS error string: No such file or directory
+00:0006:00000:00013:2025/08/06 02:31:57.07 kernel  Job Scheduler Task failed (re)connecting to its Agent (Connection refused).
+00:0006:00000:00013:2025/08/06 02:31:57.08 kernel  Job Scheduler Task state set to stop.
+00:0006:00000:00013:2025/08/06 02:31:57.08 kernel  Job Scheduler exhausted max js restart attempts 3 and is going in dormant state. The next attempt to restart the job scheduler chores will be made after 15 mins or upon user request.
+00:0006:00000:00019:2025/08/06 02:40:54.10 server  Shutdown started by user 'sa'. SQL text: shutdown with nowait
+00:0006:00000:00019:2025/08/06 02:40:54.10 server  Shutdown with nowait detected - ASE process level execution bindings will be cleared on startup.
+00:0006:00000:00019:2025/08/06 02:40:54.11 kernel  PCI(M1): ASE_PCI: pci_shutdown; PCI External components shutdown requested.
+00:0006:00000:00019:2025/08/06 02:40:54.11 kernel  PCI(M1): ASE_PCI: pci_shutdown; PCI Launcher Boss shutdown requested.
+00:0006:00000:00019:2025/08/06 02:40:54.11 kernel  PCI(M1): DEBUG: pci_shutdown; removed PCI_PLB_ACTIVE on engine 0
+00:0006:00000:00019:2025/08/06 02:40:54.11 server  ASE shutdown by request.
+00:0006:00000:00019:2025/08/06 02:40:54.11 kernel  shutdown info : ?
+00:0006:00000:00019:2025/08/06 02:40:54.11 kernel  ueshutdown: exiting
+00:0000:00000:00000:2025/08/06 02:40:54.11 kernel  Main thread performing final shutdown.
+00:0000:00000:00000:2025/08/06 02:40:54.11 kernel  Blocking call queue shutdown.
+00:0000:00000:00000:2025/08/06 02:40:59.16 kernel  SySAM: Checked in graced license for ASE_CORE (2025.0206).
