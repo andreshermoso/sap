@@ -4,13 +4,13 @@
 Errors when installing SAP Adaptive Server Enterprise (ASE) on Red Hat 9.6 (Plow) related to
 - the installer
 - Java Virtual Machine
-- missing libraries $${§}$$
+- missing libraries __$${§}$$__
 - during the "Configure Historical Monitoring Data Repository" step
 - errors during server build
 - failures related to specific library files
 
 #
-$${§}$$ Indicates ASE installer is attempting to load the __libnsl.so.2__ library, but the system cannot locate it.
+__$${§}$$__ Indicates ASE installer is attempting to load the __libnsl.so.2__ library, but the system cannot locate it.
 __libnsl__ provides the Network Services Library (relying on NIS)
 
 |setup.bin|ERROR|
