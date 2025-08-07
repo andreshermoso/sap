@@ -31,9 +31,9 @@
 ##
  
   - LD_LIBRARY_PATH=/root/sqlanywhere16/lib64:/root/sqlanywhere16/bin64/jre170/lib/amd64/client:/root/sqlanywhere16/bin64/jre170/lib/amd64/server:/root/sqlanywhere16/bin64/jre170/lib/amd64:/root/sqlanywhere16/bin64/jre170/lib/amd64/native_threads:
-  - LS_COLORS=
-  - SSH_CONNECTION=192.168.0.10 53832 192.168.0.12 22
-  - LESSCLOSE=/usr/bin/lesspipe %s %s
+  - - LS_COLORS=
+    - SSH_CONNECTION=192.168.0.10 53832 192.168.0.12 22
+    - LESSCLOSE=/usr/bin/lesspipe %s %s
   - LANG=C.UTF-8
   - OLDPWD=/root/sqlanywhere16/bin64
   - JAVA_HOME=/root/sqlanywhere16/bin64/jre170
