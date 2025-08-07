@@ -19,11 +19,9 @@ __libnsl__ provides the Network Services Library (relying on NIS)
 ||UnsatisfiedLinkError: archives/sylapi/libsylapij.so|
 ||__libnsl.so.2__: cannot open shared object file: No such file or directory|
 
-
-
 ##
-##### root#>
-    source ./sa_config.sh
+##### root#> 
+    dnf install libnsl
 
 ##
 ##### PATH to locate SQL Anywhere executables and libraries
