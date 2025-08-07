@@ -10,7 +10,7 @@ Errors when installing SAP Adaptive Server Enterprise (ASE) on Red Hat 9.6 (Plow
 - failures related to specific library files
 
 #
-Indicates ASE installer is attempting to load the __libnsl.so.2__ library, but the system cannot locate it.
+$${§}$$ Indicates ASE installer is attempting to load the __libnsl.so.2__ library, but the system cannot locate it.
 __libnsl__ provides the Network Services Library (relying on NIS)
 
 |setup.bin|ERROR|
