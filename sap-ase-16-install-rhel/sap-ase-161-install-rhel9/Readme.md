@@ -10,13 +10,21 @@ Errors when installing SAP Adaptive Server Enterprise (ASE) on Red Hat 9.6 (Plow
 - failures related to specific library files
 
 #
+Indicates ASE installer is attempting to load the __libnsl.so.2__ library, but the system cannot locate it.
+__libnsl__ provides the Network Services Library (relying on NIS)
+
 |setup.bin|ERROR|
 |:--------|:----|
 |ASE_Suite.log|SYSAMWriteLicenseAction.install() Unexpected Fatal Error:|
 ||UnsatisfiedLinkError: archives/sylapi/libsylapij.so|
 ||__libnsl.so.2__: cannot open shared object file: No such file or directory|
 
-#
-Indicates ASE installer is attempting to load the __libnsl.so.2__ library, but the system cannot locate it.
-__libnsl__ provides the Network Services Library (relying on NIS)
 
+
+##
+##### root#>
+    source ./sa_config.sh
+
+##
+##### PATH to locate SQL Anywhere executables and libraries
+    /root/sqlanywhere16/bin64/jre170/bin/:/root/sqlanywhere16/bin64:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
