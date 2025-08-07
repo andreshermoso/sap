@@ -23,6 +23,37 @@ __libnsl__ provides the Network Services Library (relying on NIS)
 ##### root#> 
     dnf install libnsl
 
+Last metadata expiration check: 1:05:54 ago on Thu 07 Aug 2025 01:44:19 AM EST.
+Dependencies resolved.
+=============================================================================================================================================================
+ Package                         Architecture                    Version                                  Repository                                    Size
+=============================================================================================================================================================
+Installing:
+ libnsl                          x86_64                          2.34-168.el9                             InstallMedia-BaseOS                           64 k
+
+Transaction Summary
+=============================================================================================================================================================
+Install  1 Package
+
+Total size: 64 k
+Installed size: 99 k
+Is this ok [y/N]: y
+Downloading Packages:
+Running transaction check
+Transaction check succeeded.
+Running transaction test
+Transaction test succeeded.
+Running transaction
+  Preparing        :                                                                                                                                     1/1 
+  Installing       : libnsl-2.34-168.el9.x86_64                                                                                                          1/1 
+  Running scriptlet: libnsl-2.34-168.el9.x86_64                                                                                                          1/1 
+  Verifying        : libnsl-2.34-168.el9.x86_64                                                                                                          1/1 
+Installed products updated.
+
+Installed:
+  libnsl-2.34-168.el9.x86_64                                                                                                                                 
+
+Complete!
 ##
 ##### PATH to locate SQL Anywhere executables and libraries
     /root/sqlanywhere16/bin64/jre170/bin/:/root/sqlanywhere16/bin64:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
