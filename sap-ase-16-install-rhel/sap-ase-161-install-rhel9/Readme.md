@@ -34,6 +34,7 @@ Last metadata expiration check: 1:05:54 ago on Thu 07 Aug 2025 01:44:19 AM EST.
 |Installed products updated.|||||
 |Installed:|||||
 |libnsl-2.34-168.el9.x86_64|||||
+    find / -name *libnsl* -print
 
 
 Dependencies resolved.
