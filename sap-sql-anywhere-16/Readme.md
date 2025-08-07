@@ -66,6 +66,15 @@
 ######     TCPIP link started successfully
 ###### Now accepting requests
 ###### Press 'q' to shut down the database server
+
+-   #### ENV
+      - __SQLANY16__  /root/sqlanywhere16
+      - __PATH__  /root/sqlanywhere16/bin64/jre170/bin/:/root/sqlanywhere16/bin64:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+      - __LD_LIBRARY_PATH__  /root/sqlanywhere16/lib64:/root/sqlanywhere16/bin64/jre170/lib/amd64/client:/root/sqlanywhere16/bin64/jre170/lib/amd64/server:/root/sqlanywhere16/bin64/jre170/lib/amd64:/root/sqlanywhere16/bin64/jre170/lib/amd64/native_threads:
+      - __JAVA_HOME__  /root/sqlanywhere16/bin64/jre170
+      - __SQLANYSAMP16__  /root/sqlanywhere16/samples
+
+
 #
 
 |DATABASE|TABLE ID|TABLE PAGES|%used|% of file|TABLE NAME|
