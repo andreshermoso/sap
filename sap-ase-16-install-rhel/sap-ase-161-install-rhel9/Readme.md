@@ -14,7 +14,7 @@ Errors when installing SAP Adaptive Server Enterprise (ASE) on Red Hat 9.6 (Plow
 |:--------|:----|
 |ASE_Suite.log|SYSAMWriteLicenseAction.install() Unexpected Fatal Error:|
 ||UnsatisfiedLinkError: archives/sylapi/libsylapij.so|
-||libnsl.so.2: cannot open shared object file: No such file or directory|
+||__libnsl.so.2__: cannot open shared object file: No such file or directory|
 
 #
 
