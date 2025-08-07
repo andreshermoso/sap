@@ -22,8 +22,7 @@ __libnsl__ provides the Network Services Library (relying on NIS)
 ##
 ##### root#> 
     dnf install libnsl
-
-Last metadata expiration check: 1:05:54 ago on Thu 07 Aug 2025 01:44:19 AM EST.
+###### Last metadata expiration check: 1:05:54 ago on Thu 07 Aug 2025 01:44:19 AM EST.
 Dependencies resolved.
 =============================================================================================================================================================
  Package                         Architecture                    Version                                  Repository                                    Size
