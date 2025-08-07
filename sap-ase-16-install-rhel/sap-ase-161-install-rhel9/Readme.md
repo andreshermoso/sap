@@ -4,7 +4,7 @@
 Errors when installing SAP Adaptive Server Enterprise (ASE) on Red Hat 9.6 (Plow) related to
 - the installer
 - Java Virtual Machine
-- missing libraries $${i}$$
+- missing libraries $${§}$$
 - during the "Configure Historical Monitoring Data Repository" step
 - errors during server build
 - failures related to specific library files
