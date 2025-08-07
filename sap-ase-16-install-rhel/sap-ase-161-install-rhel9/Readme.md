@@ -17,5 +17,6 @@ Errors when installing SAP Adaptive Server Enterprise (ASE) on Red Hat 9.6 (Plow
 ||__libnsl.so.2__: cannot open shared object file: No such file or directory|
 
 #
-Indicates ASE installer is attempting to load the the __libnsl.so.2__ library, but the system cannot locate it.
+Indicates ASE installer is attempting to load the __libnsl.so.2__ library, but the system cannot locate it.
+__libnsl__ provides the Network Services Library (relying on NIS)
 
