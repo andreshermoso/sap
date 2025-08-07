@@ -62,7 +62,7 @@
 ###### Trying to start SharedMemory link ...
 ######     SharedMemory link started successfully
 ###### Trying to start TCPIP link ...
-###### Starting on port __2638__
+###### Starting on port [2638](2638)
 ######     TCPIP link started successfully
 ###### Now accepting requests
 ###### Press 'q' to shut down the database server
