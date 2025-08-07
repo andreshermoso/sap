@@ -22,9 +22,19 @@ __libnsl__ provides the Network Services Library (relying on NIS)
 #  
     dnf install libnsl
 Last metadata expiration check: 1:05:54 ago on Thu 07 Aug 2025 01:44:19 AM EST.
-|1|2|
-|:-|:-|
-|||
+|Package|Architecture|Version|Repository|Size|
+|:-|:-|:-|:-|:-|
+|Installing|||||
+|libnsl|x86_64|2.34-168.el9|InstallMedia-BaseOS|64 k|
+|Transaction Summary|||||
+|Install 1 Package|||||
+|Installing       : libnsl-2.34-168.el9.x86_64||||1/1|
+|Running scriptlet: libnsl-2.34-168.el9.x86_64||||1/1|
+|Verifying        : libnsl-2.34-168.el9.x86_64||||1/1|
+|Installed products updated.|||||
+|Installed:|||||
+|libnsl-2.34-168.el9.x86_64|||||
+
 
 Dependencies resolved.
 =============================================================================================================================================================
