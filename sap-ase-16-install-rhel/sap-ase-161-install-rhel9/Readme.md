@@ -36,8 +36,10 @@ Last metadata expiration check: 1:05:54 ago on Thu 07 Aug 2025 01:44:19 AM EST.
 |libnsl-2.34-168.el9.x86_64|||||
     find / -name *libnsl* -print
 __/usr/lib64/libnsl.so.1__
+
     ln -s libnsl.so.1 libnsl.so.2
     ls -l libnsl.so.2
+
 __lrwxrwxrwx. 1 root root 11 Aug  7 02:54 libnsl.so.2 -> libnsl.so.1__
 
 
