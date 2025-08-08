@@ -3,6 +3,9 @@
 <br>
 <img width="80" height="27" alt="Ubuntu" src="https://github.com/user-attachments/assets/fa3ff80a-a68a-48a6-9861-68578871bb7a" />
 
+|<img width="80" height="27" alt="Ubuntu" src="https://github.com/user-attachments/assets/fa3ff80a-a68a-48a6-9861-68578871bb7a" />|
+|-:|
+
 ######
 |SAP ASE 16.1 CUSTOM INSTALL|
 |:-------------------------|
