@@ -21,9 +21,9 @@ Copyright 2025. All rights reserved.
 |SAP ASE Cockpit|
 |Remote Command and Control Agent for SAP ASE|
 |Open Client|
-<img width="410" height="254" alt="SAPASE" src="https://github.com/user-attachments/assets/5e3236b0-ef08-4740-a64e-910893bf400c" />
+
 
 ## SAP ASE errors during server build, or failures related to specific library files
 - [Red Hat Enterprise Linux 9.6 (Plow) 5.14.0-570.12.1.el9_6.x86_64 #1 SMP PREEMPT_DYNAMIC](https://github.com/andreshermoso/sap/tree/main/sap-ase-16-install-rhel/sap-ase-161-install-rhel9)
 - [Red Hat Enterprise Linux 10]()
-
+<img width="410" height="254" alt="SAPASE" src="https://github.com/user-attachments/assets/5e3236b0-ef08-4740-a64e-910893bf400c" />
