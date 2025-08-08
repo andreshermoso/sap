@@ -1,4 +1,4 @@
-<img width="440" height="384" alt="SAPASE" src="https://github.com/user-attachments/assets/5e3236b0-ef08-4740-a64e-910893bf400c" />
+<img width="410" height="384" alt="SAPASE" src="https://github.com/user-attachments/assets/5e3236b0-ef08-4740-a64e-910893bf400c" />
 
 ######
 |SAP ASE16.1 CUSTOM INSTALL|
