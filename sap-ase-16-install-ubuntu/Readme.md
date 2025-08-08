@@ -1,5 +1,5 @@
 
-<img width="330" height="77" alt="Ubuntu" src="https://github.com/user-attachments/assets/fa3ff80a-a68a-48a6-9861-68578871bb7a" />
+<img align="left" width="300" height="47" alt="Ubuntu" src="https://github.com/user-attachments/assets/fa3ff80a-a68a-48a6-9861-68578871bb7a" />
 
 <img width="410" height="384" alt="SAPASE" src="https://github.com/user-attachments/assets/5e3236b0-ef08-4740-a64e-910893bf400c" />
 
