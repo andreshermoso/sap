@@ -4,6 +4,7 @@
 
 <img width="410" height="254" alt="SAPASE" src="https://github.com/user-attachments/assets/5e3236b0-ef08-4740-a64e-910893bf400c" />
 
+#
 |RHEL|ASE booted on host running|
 |:---|:---------|
 |9.6|Linux release __5.14.0-570.12.1.el9_6.x86_64 version #1 SMP PREEMPT_DYNAMIC__ Fri Apr 4 10:41:31 EDT 2025.|
