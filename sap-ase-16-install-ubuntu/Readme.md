@@ -1,4 +1,4 @@
-<img width="430" height="390" alt="SAPASE" src="https://github.com/user-attachments/assets/5e3236b0-ef08-4740-a64e-910893bf400c" />
+<img width="420" height="390" alt="SAPASE" src="https://github.com/user-attachments/assets/5e3236b0-ef08-4740-a64e-910893bf400c" />
 <br>
 <br>
 
