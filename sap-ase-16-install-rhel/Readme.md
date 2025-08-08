@@ -5,7 +5,7 @@ Copyright 2025. All rights reserved.
 |ASE booted|
 |:---------|
 |running Linux release __5.14.0-570.12.1.el9_6.x86_64 version #1 SMP PREEMPT_DYNAMIC__ Fri Apr 4 10:41:31 EDT 2025.|
-#
+######
 |SAP ASE16.1 CUSTOM INSTALL|
 |:-------------------------|
 |SAP Adaptive Server Enterprise|
