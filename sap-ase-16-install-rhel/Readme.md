@@ -1,7 +1,6 @@
 #
 ## Adaptive Server Enterprise/16.1 SP00 PL00
-### Red Hat Enterprise Linux SAP ASE missing libraries error
-#### Problems during server build, or failures related to specific library files
+### Red Hat Enterprise Linux SAP ASE errors during server build, or failures related to specific library files
 
 #
 <img width="410" height="254" alt="SAPASE" src="https://github.com/user-attachments/assets/5e3236b0-ef08-4740-a64e-910893bf400c" />
