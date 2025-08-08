@@ -6,11 +6,6 @@ Copyright 2025 SAP AG or an SAP affiliate company
 |ASE booted|
 |:---------|
 |running Linux release __5.14.0-570.12.1.el9_6.x86_64 version #1 SMP PREEMPT_DYNAMIC__ Fri Apr 4 10:41:31 EDT 2025.|
-
-### SAP ASE errors during server build, or failures related to specific library files on Red Hat Enterprise Linux
-
-
-#
 <img width="410" height="254" alt="SAPASE" src="https://github.com/user-attachments/assets/5e3236b0-ef08-4740-a64e-910893bf400c" />
 
 #
