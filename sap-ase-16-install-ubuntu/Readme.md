@@ -25,7 +25,7 @@
 #
 |Ubuntu|ASE booted on host running|
 |:---|:---------|
-|22|Linux release __5.14.0-570.12.1.el9_6.x86_64 version #1 SMP PREEMPT_DYNAMIC__ Fri Apr 4 10:41:31 EDT 2025.|
+|22|Linux release __5.15.0-151-generic version #161-Ubuntu SMP__ Tue Jul 22 14:25:40 UTC 2025.|
 |25||
 
 #
@@ -33,6 +33,6 @@
 
 #
 ## SAP ASE errors during server build, or failures related to specific library files
-- [Red Hat Enterprise Linux 9.6 (Plow) 5.14.0-570.12.1.el9_6.x86_64 #1 SMP PREEMPT_DYNAMIC](https://github.com/andreshermoso/sap/tree/main/sap-ase-16-install-rhel/sap-ase-161-install-rhel9)
-- [Red Hat Enterprise Linux 10]()
+- [Ubuntu 22.04.5 LTS (Jammy Jellyfish) 5.15.0-151-generic version #161-Ubuntu SMP]()
+- [Ubuntu 25]()
 #
