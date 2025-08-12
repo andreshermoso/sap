@@ -1,6 +1,6 @@
 ## About me
 
-I am a technologist forged in the golden era of Sybase — a senior IT consultant with over 30 years of hands-on experience in enterprise database administration and technical project management.
+Years of hands-on experience in enterprise database administration and technical project management.
 
 My current interests include exploring the latest capabilities of SAP Adaptive Server Enterprise (ASE) 16.1, along with SAP IQ, SAP Replication Server, SAP SQL Anywhere, and SAP PowerDesigner.
 
